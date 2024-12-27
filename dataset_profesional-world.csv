@@ -1,0 +1,1501 @@
+﻿ID,Nombre,País,Edad,Género,Profesión,Salario (USD),Años de Experiencia
+1,Allison Hill,India,19,No especificado,Analista de Datos,51835.94,8
+2,Noah Rhodes,India,61,No especificado,Científico,31302.05,27
+3,Angie Henderson,Estados Unidos,19,Masculino,Diseñador,50245.92,38
+4,Daniel Wagner,Estados Unidos,53,Masculino,Científico,74537.58,28
+5,Cristian Santos,Australia,35,Masculino,Profesor,110758.12,21
+6,Connie Lawrence,Alemania,27,Masculino,Artista,33287.34,24
+7,Abigail Shaffer,India,40,Femenino,Mecánico,54387.71,2
+8,Gina Moore,Japón,52,Masculino,Abogado,30244.03,18
+9,Gabrielle Davis,Australia,41,No especificado,Diseñador,111594.34,2
+10,Ryan Munoz,Reino Unido,36,Masculino,Diseñador,132642.88,24
+11,Monica Herrera,Alemania,47,No especificado,Artista,41145.03,22
+12,Jamie Arnold,Reino Unido,60,Femenino,Doctor,99187.03,10
+13,Lisa Hensley,Sudáfrica,64,Masculino,Profesor,80093.83,17
+14,Michele Williams,Sudáfrica,32,No especificado,Artista,129570.75,3
+15,Dylan Miller,Reino Unido,20,Femenino,Abogado,54806.31,13
+16,Brian Ramirez,Australia,63,Femenino,Diseñador,105207.03,25
+17,Holly Wood,Japón,27,Femenino,Profesor,52061.58,35
+18,Derek Zuniga,Sudáfrica,34,No especificado,Mecánico,75696.4,37
+19,Lisa Jackson,México,41,Masculino,Profesor,86238.42,5
+20,Carla Gray,Estados Unidos,25,Masculino,Profesor,122970.32,27
+21,Margaret Hawkins DDS,Australia,22,Femenino,Abogado,97465.5,29
+22,Patty Perez,Sudáfrica,34,No especificado,Ingeniero,108436.84,7
+23,Ethan Adams,Sudáfrica,35,No especificado,Artista,34501.78,27
+24,Tommy Walter,Brasil,47,Masculino,Analista de Datos,146345.45,11
+25,Matthew Foster,Sudáfrica,24,No especificado,Analista de Datos,129417.02,32
+26,Judy Baker,Australia,30,Masculino,Artista,119126.4,34
+27,Justin Baker,Sudáfrica,18,No especificado,Artista,83518.74,7
+28,Stephanie Ross,China,37,Masculino,Ingeniero,51313.31,36
+29,Zachary Hicks,India,23,No especificado,Programador,126083.02,34
+30,Anthony Rodriguez,Brasil,26,No especificado,Programador,143090.33,10
+31,Rebecca Henderson,Alemania,51,No especificado,Abogado,145367.18,34
+32,James Ferrell,Reino Unido,63,Femenino,Abogado,149369.42,23
+33,Tricia Valencia,Japón,51,Femenino,Doctor,52227.73,4
+34,Nathan Maldonado,China,19,No especificado,Científico,49914.92,14
+35,Debra Davidson,Estados Unidos,22,No especificado,Ingeniero,49762.43,2
+36,Jeffrey Chavez,China,22,No especificado,Diseñador,56202.04,31
+37,Sherri Baker,Reino Unido,52,Masculino,Mecánico,94907.51,15
+38,Cassandra Gaines,Japón,44,Masculino,Doctor,32601.01,27
+39,Elizabeth Fowler,China,45,Femenino,Programador,132298.78,3
+40,Brittany Farmer,India,21,Femenino,Artista,124077.03,6
+41,Paula Moreno,Reino Unido,30,Masculino,Científico,78319.76,27
+42,Fred Smith,Brasil,35,Femenino,Diseñador,133683.17,4
+43,Sherry Decker,Japón,53,Masculino,Ingeniero,104778.84,34
+44,Anthony Humphrey,Estados Unidos,23,Masculino,Profesor,72833.83,30
+45,Angelica Tucker,Reino Unido,43,Masculino,Profesor,69266.51,24
+46,Philip Cannon,Alemania,47,Femenino,Abogado,110556.9,35
+47,John Pierce,Japón,27,Masculino,Analista de Datos,48301.12,3
+48,Shane Henderson,Australia,65,No especificado,Ingeniero,117236.82,3
+49,Joshua Blair,Estados Unidos,55,Femenino,Científico,139520.33,33
+50,Eric Carney,Brasil,21,No especificado,Doctor,130674.53,4
+51,Jessica Holmes,Australia,22,No especificado,Diseñador,72490.82,36
+52,Danny Morgan,Reino Unido,55,No especificado,Ingeniero,100519.6,26
+53,Crystal Robinson,Australia,54,No especificado,Artista,141511.81,13
+54,Mark Perez,China,33,Femenino,Abogado,37014.18,19
+55,Shannon Jones,Japón,38,Masculino,Ingeniero,79577.12,36
+56,Michael Lewis,India,22,No especificado,Diseñador,85765.01,8
+57,Timothy Duncan,China,22,Masculino,Artista,57048.36,28
+58,Richard Aguirre,Sudáfrica,63,Femenino,Mecánico,147900.93,33
+59,Brent Jordan,Estados Unidos,60,No especificado,Analista de Datos,141128.29,6
+60,John Daniel,Brasil,34,Masculino,Doctor,116514.17,9
+61,Victoria Garcia,Alemania,36,No especificado,Diseñador,113289.58,13
+62,Gerald Hensley,Alemania,50,Femenino,Analista de Datos,137693.74,3
+63,Connor West,India,58,Femenino,Analista de Datos,25731.28,21
+64,Donald Wright,Brasil,58,Femenino,Profesor,116360.02,35
+65,Jessica Callahan,México,53,Masculino,Doctor,29781.7,9
+66,Amber Kidd,Sudáfrica,20,Femenino,Mecánico,91828.26,27
+67,Tracy House,Brasil,20,Femenino,Artista,136867.59,2
+68,Carol Tucker,China,31,No especificado,Diseñador,106701.34,22
+69,James Brown,Sudáfrica,44,No especificado,Profesor,140349.3,15
+70,William Baker,Brasil,29,Femenino,Ingeniero,43316.89,21
+71,Jordan Henderson,México,60,No especificado,Diseñador,54684.74,6
+72,Whitney Peters,México,20,Femenino,Diseñador,45944.47,29
+73,Brittney Phillips,China,37,Masculino,Diseñador,23076.38,12
+74,Lauren Daniels,México,39,Femenino,Doctor,145695.58,17
+75,Amy Silva,China,59,No especificado,Abogado,108337.36,34
+76,Sarah Moore,China,19,Masculino,Analista de Datos,43213.82,16
+77,Angela Lopez,Estados Unidos,24,No especificado,Abogado,64939.32,20
+78,Megan Young,México,56,No especificado,Doctor,70075.41,36
+79,Steve Sanchez,Reino Unido,34,Masculino,Abogado,20219.87,34
+80,Lisa Barnes,Reino Unido,41,Femenino,Doctor,143353.68,21
+81,Kelly Donovan,Australia,38,No especificado,Doctor,113568.05,19
+82,Mike Allen,Sudáfrica,37,No especificado,Abogado,62403.78,18
+83,Michael Evans,Sudáfrica,26,Masculino,Abogado,106440.83,24
+84,Paul Jones,Brasil,57,No especificado,Analista de Datos,72789.77,0
+85,Zachary Ferrell,Alemania,36,Masculino,Abogado,122148.65,38
+86,Daniel Baker,China,47,Femenino,Programador,107831.54,32
+87,Shirley Suarez,Japón,65,Masculino,Doctor,56892.23,40
+88,Christopher Bass,Australia,39,Masculino,Diseñador,107463.44,14
+89,Lisa Archer,Reino Unido,27,Masculino,Ingeniero,51829.53,30
+90,Aimee Montoya,Australia,22,Femenino,Abogado,135197.8,36
+91,Matthew Mcmillan,Reino Unido,63,No especificado,Abogado,84269.03,15
+92,Brian Rodriguez,Brasil,59,No especificado,Ingeniero,136045.78,6
+93,Denise Jacobs,México,32,Masculino,Científico,80391.48,35
+94,Christina Walters,Reino Unido,25,Femenino,Profesor,124184.16,33
+95,John Whitehead,Sudáfrica,56,Femenino,Programador,99644.8,32
+96,Anna Henderson,México,53,Femenino,Profesor,116675.21,30
+97,Aaron Wise,Japón,34,Masculino,Analista de Datos,119555.78,33
+98,Deborah Figueroa,Japón,58,Masculino,Analista de Datos,77183.44,18
+99,Jessica Smith,Reino Unido,35,Femenino,Artista,136093.49,5
+100,Stephen Mckee,Brasil,27,Masculino,Abogado,110213.48,13
+101,Sandra Aguilar,India,44,Femenino,Artista,90539.45,26
+102,Cameron Parker,Estados Unidos,31,Femenino,Abogado,137629.0,37
+103,Rebecca Valencia,Estados Unidos,54,Femenino,Programador,20766.49,22
+104,Christine Wright,Alemania,42,Femenino,Científico,117177.04,34
+105,Richard Henson,Australia,32,Femenino,Diseñador,55481.59,31
+106,Marc Moore,Estados Unidos,42,Femenino,Abogado,114143.58,29
+107,Sharon Cherry,Brasil,57,No especificado,Ingeniero,137900.75,37
+108,Sierra Johnson,Australia,60,Masculino,Doctor,103557.45,8
+109,Evelyn Galvan,Japón,29,Masculino,Analista de Datos,69283.5,13
+110,Sharon Cochran,Japón,38,Femenino,Abogado,56173.36,26
+111,Richard Rodriguez,Alemania,23,Femenino,Ingeniero,117373.15,3
+112,Shannon Walker,China,32,No especificado,Doctor,121560.3,2
+113,Julia Torres,Estados Unidos,33,Masculino,Ingeniero,100773.64,15
+114,Crystal Johnson,Brasil,48,No especificado,Doctor,93316.05,13
+115,Garrett Lin,Japón,62,Femenino,Artista,41812.59,38
+116,Diana May,India,28,Femenino,Doctor,95229.02,19
+117,William Herrera,Australia,61,Femenino,Abogado,142391.18,12
+118,Ashley Waller,India,55,No especificado,Diseñador,33247.17,19
+119,Victor Baker,Australia,25,No especificado,Ingeniero,65136.49,27
+120,Jeffrey Chandler,China,22,No especificado,Artista,21644.78,26
+121,Larry Dixon,Japón,24,Femenino,Artista,102626.06,29
+122,Kenneth Scott,Brasil,45,Masculino,Científico,145511.59,17
+123,April Frost,Australia,52,Femenino,Programador,76624.68,37
+124,Michelle Harmon,Alemania,38,Masculino,Doctor,56260.67,28
+125,Helen Jones,Reino Unido,47,No especificado,Mecánico,106864.5,21
+126,Erin Edwards,Estados Unidos,49,Femenino,Profesor,83381.49,22
+127,Michelle Evans,Alemania,39,Femenino,Mecánico,111153.89,17
+128,Jason Powell,Sudáfrica,18,No especificado,Diseñador,31129.69,26
+129,Cameron Fisher,Japón,53,Masculino,Programador,103967.38,31
+130,Megan Orr,Japón,19,Masculino,Analista de Datos,48807.53,15
+131,Elizabeth Kelley,Alemania,60,No especificado,Artista,81523.86,33
+132,Dustin Jordan,China,45,No especificado,Científico,63002.87,29
+133,Mary Marshall,Alemania,37,Femenino,Diseñador,35685.27,12
+134,Daniel Kennedy,China,25,No especificado,Científico,143614.08,11
+135,Rebecca Jackson,Reino Unido,31,No especificado,Programador,55944.95,37
+136,Jose Schultz,Sudáfrica,56,Femenino,Doctor,128241.69,18
+137,Robert Potter,Reino Unido,41,Masculino,Analista de Datos,21839.29,34
+138,Courtney Gonzalez,Brasil,35,Masculino,Ingeniero,91936.67,8
+139,David Alvarez,Japón,24,Masculino,Mecánico,56964.11,30
+140,Angel Perry,Japón,39,Masculino,Ingeniero,52822.19,30
+141,Cheyenne Horton,India,22,Femenino,Programador,29630.68,40
+142,David Douglas Jr.,Estados Unidos,27,Masculino,Mecánico,143386.33,5
+143,Patricia Rodriguez,Reino Unido,25,No especificado,Abogado,98821.29,39
+144,Christopher Rubio,Reino Unido,51,Femenino,Programador,138105.57,19
+145,Amber Wright,Australia,45,Femenino,Mecánico,100733.55,39
+146,Joyce Solis,India,31,No especificado,Diseñador,54404.0,5
+147,Victoria Larson,Brasil,33,Masculino,Científico,29758.43,0
+148,Stephanie Salazar,México,46,No especificado,Mecánico,81088.62,2
+149,Kathy Rivas,Reino Unido,36,No especificado,Analista de Datos,111388.38,29
+150,Stephanie Manning,India,61,Masculino,Analista de Datos,122417.64,40
+151,David Wright,Australia,60,Masculino,Abogado,34920.92,14
+152,Pamela Boyd,Brasil,35,Masculino,Doctor,27752.95,19
+153,Denise Jones,Australia,65,No especificado,Analista de Datos,77089.95,29
+154,Devon Flores,Alemania,62,Femenino,Analista de Datos,85061.38,31
+155,Brenda Hall,Japón,23,No especificado,Ingeniero,135624.98,20
+156,Michelle Brown,Australia,34,Masculino,Doctor,49760.17,36
+157,Joshua Perry,Australia,19,No especificado,Analista de Datos,94912.11,11
+158,Jason Stein,Japón,51,No especificado,Programador,139089.46,11
+159,Melissa Gates,Australia,45,No especificado,Programador,145977.18,30
+160,Jamie Smith,China,44,Femenino,Artista,107117.36,10
+161,Paul Castaneda,China,44,No especificado,Programador,57468.31,25
+162,Jennifer Adkins,Sudáfrica,20,Femenino,Doctor,60887.23,20
+163,Lindsey Walker,India,43,No especificado,Ingeniero,105495.85,34
+164,Jeffrey Johnson,Japón,44,Masculino,Diseñador,87397.12,39
+165,Michael Powell,Japón,58,Femenino,Ingeniero,46462.57,35
+166,John Anderson,Brasil,36,Femenino,Programador,35785.39,40
+167,Alyssa Long,Australia,33,No especificado,Profesor,60397.52,0
+168,Alyssa Day,Sudáfrica,44,Masculino,Diseñador,148993.43,7
+169,Joel Williams,Japón,25,No especificado,Profesor,84788.82,18
+170,Daniel Murphy,Sudáfrica,63,Femenino,Abogado,128514.11,30
+171,Jamie Walton,Reino Unido,47,No especificado,Profesor,69866.18,38
+172,Darlene Miller,Sudáfrica,65,Masculino,Doctor,55912.16,26
+173,Joshua Cooke,China,50,Femenino,Ingeniero,56769.07,19
+174,Matthew Harrington,Australia,55,No especificado,Programador,132483.88,28
+175,Nicole Herring,Sudáfrica,48,Femenino,Artista,91749.26,34
+176,Alex Hernandez,México,47,Femenino,Diseñador,147500.7,15
+177,Michael Elliott,Australia,42,Masculino,Abogado,25674.15,30
+178,Michael Wang,México,42,No especificado,Profesor,84392.72,2
+179,Lawrence Adkins,Brasil,50,No especificado,Artista,133061.04,28
+180,Robert Oconnell,India,51,Femenino,Ingeniero,113917.7,26
+181,Alexander Collins,Brasil,22,Femenino,Analista de Datos,64012.96,25
+182,Tina Sanders,India,39,No especificado,Científico,69401.22,20
+183,Angela Vaughn,Japón,52,Masculino,Mecánico,28894.7,40
+184,Ashley Barton,Alemania,32,No especificado,Doctor,76416.29,6
+185,Lindsay Martinez,India,46,Masculino,Analista de Datos,137445.13,2
+186,Dr. Hannah Patterson,China,21,Femenino,Artista,68729.34,9
+187,Jonathan Peterson,Reino Unido,51,Femenino,Mecánico,108634.05,11
+188,Samantha Garcia,Brasil,29,Masculino,Mecánico,133209.15,39
+189,Madison Poole,Reino Unido,49,No especificado,Profesor,50184.5,40
+190,Jessica Gross,Alemania,47,Femenino,Ingeniero,136858.11,29
+191,Debra Morton,Alemania,61,No especificado,Profesor,29602.05,22
+192,Karen Graham,Australia,37,No especificado,Abogado,109740.76,29
+193,Debra Christian,Alemania,30,Femenino,Programador,33864.92,24
+194,Angelica Keith,Australia,40,No especificado,Analista de Datos,149049.97,18
+195,John Bishop,Estados Unidos,60,Femenino,Analista de Datos,21052.74,3
+196,Allen Rosales,Australia,65,Femenino,Analista de Datos,120846.33,14
+197,Daniel Salinas,Australia,40,Masculino,Diseñador,100715.85,8
+198,Spencer Haynes,India,58,No especificado,Ingeniero,60161.27,28
+199,Adam Vaughan,Estados Unidos,55,Femenino,Profesor,31717.34,18
+200,Nathan Freeman,China,65,Femenino,Profesor,46103.32,34
+201,Melissa Brewer,China,51,No especificado,Analista de Datos,127961.44,16
+202,Ricky Davis II,Japón,36,No especificado,Artista,124550.23,29
+203,Elizabeth Perkins,India,27,Masculino,Abogado,145745.07,35
+204,Joseph Coleman,China,23,Femenino,Ingeniero,54379.62,7
+205,Erin Warner,Japón,41,No especificado,Analista de Datos,95992.81,40
+206,David Martinez,China,24,No especificado,Diseñador,81291.99,39
+207,Bryan Herrera,Sudáfrica,38,No especificado,Diseñador,104194.81,40
+208,Cathy Robinson,Japón,62,Femenino,Abogado,35167.87,2
+209,Dr. William Warren,Estados Unidos,37,Femenino,Doctor,32634.96,34
+210,Brian Lee,Brasil,42,Femenino,Artista,107163.21,34
+211,Christopher Smith,México,55,No especificado,Profesor,135103.79,6
+212,Denise Mccann,Japón,57,Femenino,Analista de Datos,24253.12,23
+213,Melissa Martinez,Reino Unido,46,Femenino,Diseñador,131208.53,6
+214,Katherine Salas,China,52,No especificado,Artista,27871.51,17
+215,Julie Alexander,Reino Unido,25,Femenino,Doctor,106159.94,40
+216,Anthony Everett,Australia,19,Masculino,Artista,51663.96,8
+217,Rodney Morales,Australia,31,Masculino,Científico,46930.46,13
+218,Mark Brown,Reino Unido,39,Masculino,Mecánico,20368.62,9
+219,Justin Torres,Brasil,52,Femenino,Profesor,34290.43,1
+220,Bailey Duran DDS,Brasil,18,Femenino,Diseñador,96550.88,1
+221,Courtney Mills,Brasil,34,Masculino,Profesor,116423.35,33
+222,Jeremy Dalton,India,65,Masculino,Programador,78275.78,23
+223,Elizabeth Oliver DDS,Sudáfrica,55,Masculino,Programador,85499.03,39
+224,Theresa Clark,Estados Unidos,64,No especificado,Científico,59211.94,1
+225,Matthew Moore,Estados Unidos,48,Femenino,Abogado,109192.67,31
+226,Benjamin Smith,Japón,22,Masculino,Artista,99078.67,4
+227,Kirk Carter,Brasil,35,No especificado,Mecánico,91286.34,20
+228,Michael Warner,México,56,No especificado,Analista de Datos,78983.0,38
+229,Michael Bradshaw,México,24,No especificado,Doctor,130863.06,35
+230,Lori Guerrero,Reino Unido,45,Femenino,Diseñador,73795.76,29
+231,Jessica Stephens,México,44,No especificado,Doctor,60631.29,20
+232,Susan Serrano,Alemania,41,Masculino,Programador,28727.33,5
+233,Christopher Parker,India,45,Masculino,Artista,125530.01,35
+234,Laura Roberts,Estados Unidos,55,No especificado,Científico,62853.98,7
+235,Michael Lyons,México,40,No especificado,Abogado,132851.98,3
+236,Kathryn Snyder,Alemania,56,Femenino,Artista,33468.07,32
+237,Andrew Reynolds,Reino Unido,27,No especificado,Programador,49151.83,6
+238,David Davis,China,53,Femenino,Doctor,119138.73,36
+239,Sara Johnston,Reino Unido,45,No especificado,Mecánico,99764.53,35
+240,Yvonne Chambers,Estados Unidos,56,No especificado,Analista de Datos,23763.91,17
+241,Andrew Avila,Alemania,39,Femenino,Ingeniero,43582.72,9
+242,Matthew Moon,Australia,60,Femenino,Doctor,38443.71,40
+243,Kevin Walters,Estados Unidos,23,No especificado,Científico,47967.27,26
+244,Brandon Bailey MD,Japón,39,Masculino,Artista,60512.86,20
+245,Shannon Rivera,Australia,56,Masculino,Ingeniero,40225.39,39
+246,Donna Landry,Estados Unidos,61,Masculino,Analista de Datos,77604.69,27
+247,Krista Gibson,Japón,56,Femenino,Abogado,55511.69,32
+248,Frank Cordova,India,40,Femenino,Doctor,56822.04,37
+249,Jose Travis,Japón,51,No especificado,Analista de Datos,25904.26,25
+250,Kimberly Gutierrez,Australia,21,Masculino,Diseñador,59184.52,13
+251,Isaiah Avila,Brasil,34,Femenino,Artista,35597.96,31
+252,Olivia Harris,México,29,Masculino,Abogado,89235.71,14
+253,Tanya Kim,Sudáfrica,53,No especificado,Artista,29369.81,2
+254,Barbara Dudley,México,19,Femenino,Doctor,132074.3,36
+255,Cynthia Moore,México,54,Femenino,Abogado,57636.98,25
+256,Kristen Davis,Estados Unidos,38,Masculino,Mecánico,79812.6,23
+257,Susan Murray MD,India,45,Masculino,Diseñador,76637.95,25
+258,Kathleen Moran,Sudáfrica,23,Femenino,Analista de Datos,116954.63,14
+259,Denise Davenport,China,28,Masculino,Científico,102319.21,33
+260,Mrs. Kristen Reyes,Sudáfrica,30,Femenino,Artista,114559.28,9
+261,Katie Suarez,Reino Unido,24,Masculino,Analista de Datos,45645.33,38
+262,Desiree Tyler,Brasil,59,Masculino,Profesor,143667.98,40
+263,Timothy Romero,Japón,47,No especificado,Mecánico,78357.68,36
+264,Diane Evans,Australia,38,No especificado,Artista,39624.46,4
+265,Yvonne Burns,Japón,46,No especificado,Analista de Datos,123522.86,37
+266,Joshua Reed,Estados Unidos,40,No especificado,Doctor,60353.02,28
+267,Kimberly Gibson,Estados Unidos,21,Femenino,Analista de Datos,29975.03,5
+268,Colin Terry,Australia,56,No especificado,Abogado,80152.52,35
+269,Cynthia Rowe,Estados Unidos,46,No especificado,Diseñador,61798.48,30
+270,Patrick Thornton,Sudáfrica,27,Masculino,Programador,33455.24,21
+271,Jasmin Alvarado,India,50,No especificado,Profesor,25088.48,28
+272,Veronica Simpson,Japón,51,No especificado,Mecánico,40637.01,23
+273,Jonathan Lawrence,Alemania,42,Femenino,Artista,108256.7,3
+274,Shelly Alexander,China,22,Femenino,Doctor,92535.22,24
+275,Joyce Bowen,Alemania,34,No especificado,Mecánico,133526.36,21
+276,Matthew Moore,India,55,No especificado,Profesor,139177.04,19
+277,Wayne Morgan,México,26,No especificado,Doctor,60245.65,24
+278,Marie Christian,China,26,No especificado,Científico,32148.89,27
+279,Shannon James,Sudáfrica,41,Masculino,Artista,60152.59,13
+280,Nathan Malone,China,49,Masculino,Diseñador,149996.96,9
+281,Amanda Jones,India,36,Masculino,Científico,120213.71,33
+282,Tammie Bright,Estados Unidos,60,Femenino,Mecánico,37036.38,24
+283,Jessica Garcia,Brasil,28,Masculino,Mecánico,125175.68,10
+284,Shelia Wallace,Japón,20,Femenino,Artista,107927.18,15
+285,Stephanie Williams,Japón,57,Femenino,Programador,50420.38,15
+286,Elaine Brooks,Alemania,48,Masculino,Artista,108179.89,36
+287,Joseph Knight,Japón,47,Femenino,Abogado,85377.87,26
+288,Carolyn Miller,Brasil,30,No especificado,Profesor,133490.25,3
+289,Lisa Allen,Japón,41,No especificado,Doctor,112482.13,33
+290,Briana Murray,India,36,Masculino,Profesor,55462.87,32
+291,David Smith,Brasil,45,Masculino,Diseñador,126171.42,22
+292,Stephanie Byrd,Estados Unidos,44,Masculino,Abogado,85260.92,15
+293,Jeremy Reed,México,23,Femenino,Diseñador,23664.38,6
+294,Margaret Coleman,China,27,Masculino,Ingeniero,57294.32,30
+295,Ryan Gonzalez,Brasil,63,Femenino,Programador,99995.27,5
+296,John Young,Estados Unidos,34,Masculino,Profesor,91344.55,38
+297,Laura Haney,Sudáfrica,45,Masculino,Analista de Datos,50893.23,7
+298,William Barrett,Estados Unidos,33,Femenino,Mecánico,79424.77,7
+299,Keith Jennings,Japón,56,No especificado,Ingeniero,102154.14,36
+300,Amber Obrien,Reino Unido,63,Masculino,Analista de Datos,75801.06,39
+301,Tanner Mitchell DDS,China,33,No especificado,Abogado,44350.81,5
+302,Heather Fields,Sudáfrica,41,Masculino,Científico,90730.65,32
+303,Megan Le,Sudáfrica,19,Femenino,Programador,25659.48,24
+304,Sara Fuller,China,34,No especificado,Ingeniero,66422.2,4
+305,Maria Parker,China,33,No especificado,Doctor,120295.18,21
+306,Kevin Oconnor,Brasil,20,Femenino,Científico,64011.14,11
+307,Edward Burgess,Japón,62,Femenino,Profesor,125494.7,4
+308,Carlos Ryan,Japón,20,Femenino,Diseñador,25694.82,12
+309,Kiara Mcintyre,Estados Unidos,38,Femenino,Científico,71769.13,34
+310,Dawn Summers,Japón,34,Masculino,Diseñador,57194.42,3
+311,Dr. Paul Morgan,China,35,Masculino,Artista,76803.68,25
+312,Victor Taylor,Japón,42,Femenino,Profesor,84506.42,31
+313,Shannon Ramsey,China,51,Femenino,Doctor,114520.57,5
+314,Tracy Ballard,México,56,Masculino,Científico,58189.63,6
+315,Richard Smith,India,38,No especificado,Analista de Datos,59844.46,38
+316,Jordan Chambers,México,28,No especificado,Programador,65701.11,2
+317,Lauren Carson,China,57,Femenino,Analista de Datos,103131.01,3
+318,Ashley Hall,India,60,No especificado,Abogado,67230.45,10
+319,Stephen Hoffman,Estados Unidos,27,No especificado,Programador,24523.87,4
+320,Connie Brown,Reino Unido,59,Femenino,Artista,69771.07,36
+321,Susan Turner,Estados Unidos,56,Masculino,Programador,143347.06,23
+322,Charles Shah,Japón,22,No especificado,Profesor,88829.78,25
+323,Johnathan Davis,China,59,Femenino,Diseñador,144867.61,1
+324,Brandy Chavez,Brasil,49,No especificado,Abogado,138760.53,7
+325,Natalie Bautista,Alemania,34,No especificado,Programador,47894.16,39
+326,Patrick Moore,Alemania,62,Femenino,Diseñador,35942.86,4
+327,Brett Burns,Japón,29,No especificado,Programador,149644.11,20
+328,Trevor Johnson,China,63,Masculino,Científico,90482.28,19
+329,Jeremy Sampson,Brasil,63,No especificado,Profesor,123180.53,32
+330,Ariana Jennings,Reino Unido,25,Masculino,Profesor,50775.7,31
+331,Vanessa Howard,Estados Unidos,41,No especificado,Mecánico,67958.45,35
+332,Colton Martinez,Brasil,57,Masculino,Doctor,60207.79,30
+333,Jordan Bates,Sudáfrica,44,Femenino,Mecánico,29587.59,20
+334,Linda Smith,India,46,Femenino,Científico,64786.92,35
+335,Dana Martinez,Australia,29,Masculino,Abogado,85372.29,3
+336,Andrea Hubbard,India,51,Masculino,Analista de Datos,41405.42,20
+337,Daniel Kane,Reino Unido,40,No especificado,Analista de Datos,129971.38,16
+338,Charles Lester,Reino Unido,58,No especificado,Analista de Datos,36272.14,19
+339,Scott Thomas,Australia,52,Masculino,Científico,103328.37,37
+340,David Thompson,Australia,27,Masculino,Mecánico,113682.26,38
+341,Allison Smith,China,54,Masculino,Ingeniero,30558.97,36
+342,Cynthia Morris,Alemania,59,Masculino,Mecánico,74156.28,40
+343,Anthony Harmon,Estados Unidos,49,No especificado,Científico,57657.32,19
+344,Nichole Alvarez,Japón,33,No especificado,Abogado,58666.4,4
+345,Kayla Rodriguez,Estados Unidos,28,Femenino,Abogado,82952.65,13
+346,Theresa Williams,China,56,Masculino,Artista,131993.06,20
+347,Sharon Boyd,China,43,Masculino,Artista,86947.42,6
+348,Victor Brown,China,33,Femenino,Doctor,54771.32,15
+349,James Parks,Brasil,24,Masculino,Analista de Datos,142900.04,39
+350,Theodore Jones Jr.,México,33,Masculino,Artista,141387.7,20
+351,Ana Hill,Reino Unido,28,Femenino,Científico,80685.97,19
+352,Kimberly Nguyen,Japón,19,Masculino,Abogado,85707.78,15
+353,Kerry Chavez DDS,Reino Unido,55,Femenino,Ingeniero,26570.25,31
+354,Michael Farrell,Australia,59,No especificado,Programador,57147.29,0
+355,Patricia Le,India,45,Masculino,Analista de Datos,114576.05,25
+356,Jesse Perez,China,20,Femenino,Ingeniero,94136.61,12
+357,Jesse Perry,China,53,Femenino,Doctor,70225.35,28
+358,Jeffery Ortega,Sudáfrica,35,No especificado,Mecánico,35445.43,6
+359,Christian Leblanc,México,41,Femenino,Científico,142063.31,9
+360,Ronald Davis,Reino Unido,56,No especificado,Abogado,85010.13,2
+361,Parker Cain,Estados Unidos,26,No especificado,Artista,124515.56,33
+362,Laurie Hoffman,Japón,27,No especificado,Científico,38171.53,39
+363,Bryan Gomez,China,28,Femenino,Mecánico,116111.52,19
+364,Nicole Parrish,Australia,39,No especificado,Científico,89204.18,36
+365,Tracy Burke,Alemania,48,Masculino,Artista,63061.15,7
+366,Kenneth Lewis,México,55,Femenino,Ingeniero,97598.25,16
+367,Courtney Rodriguez,Australia,54,Masculino,Ingeniero,95858.03,10
+368,Holly Farmer,Sudáfrica,58,No especificado,Mecánico,120698.8,24
+369,Renee Bruce,Brasil,61,Masculino,Ingeniero,94434.14,7
+370,Sabrina Austin,Reino Unido,19,Femenino,Artista,74441.44,26
+371,Allison Hickman,Reino Unido,44,No especificado,Mecánico,139667.72,3
+372,Debra White,Brasil,51,Masculino,Científico,62256.44,30
+373,Ellen Morgan,Sudáfrica,42,Femenino,Profesor,79756.26,34
+374,Sergio Knight,China,52,Femenino,Analista de Datos,99309.96,12
+375,Charles Schultz,Reino Unido,35,No especificado,Analista de Datos,49232.71,19
+376,Paul Lewis,Alemania,63,Masculino,Programador,61215.3,22
+377,Glen Wood,Sudáfrica,64,Femenino,Analista de Datos,35843.63,34
+378,Paula Bradley,México,43,Femenino,Profesor,57758.84,18
+379,Anthony Moore,India,40,Femenino,Analista de Datos,117154.0,13
+380,Megan Nelson,Reino Unido,52,Femenino,Científico,110502.27,8
+381,Karla Ramos,India,57,No especificado,Mecánico,51106.67,3
+382,Paul Wilson,Sudáfrica,32,No especificado,Diseñador,26823.84,26
+383,Douglas Gregory,China,63,Femenino,Doctor,108554.96,8
+384,Mr. Andrew Foster,Estados Unidos,53,Masculino,Abogado,104876.06,30
+385,Aimee Turner,Japón,59,Masculino,Analista de Datos,61751.8,3
+386,Chad Scott,India,59,No especificado,Diseñador,89569.8,2
+387,Adam Burgess,Brasil,44,Masculino,Ingeniero,149632.33,25
+388,James Padilla,Japón,29,No especificado,Analista de Datos,133976.61,0
+389,Sandra Drake,Alemania,54,No especificado,Doctor,140699.13,21
+390,Scott Williams,Alemania,47,No especificado,Científico,88161.41,8
+391,Thomas Atkins,Sudáfrica,47,Femenino,Diseñador,125145.8,21
+392,Laura Mckinney,Brasil,64,Femenino,Analista de Datos,113417.76,0
+393,Brian Smith,China,36,No especificado,Diseñador,42814.34,40
+394,Robert Montgomery,México,45,No especificado,Artista,31275.91,6
+395,Tamara Davis,Brasil,26,Femenino,Artista,141657.3,0
+396,Dana Chapman,Alemania,42,Masculino,Programador,117988.36,21
+397,Jennifer Collins,Alemania,55,No especificado,Mecánico,21486.65,23
+398,Gary Jackson,Reino Unido,21,No especificado,Doctor,80501.35,10
+399,Ashley Hicks,México,61,No especificado,Analista de Datos,109737.75,40
+400,Hannah Luna,Alemania,41,No especificado,Diseñador,48486.72,8
+401,Robin Young,Japón,27,Femenino,Mecánico,68571.23,35
+402,Craig Morrison,Japón,52,No especificado,Diseñador,119041.75,38
+403,Mary Thompson,India,51,Femenino,Científico,111489.6,4
+404,Kathleen Webster,Australia,25,Masculino,Científico,137375.46,12
+405,Joann Glass,Australia,52,Masculino,Profesor,62655.29,33
+406,Madison Weber,Japón,25,No especificado,Diseñador,113199.34,31
+407,Lori Hernandez,India,50,Femenino,Ingeniero,78946.2,32
+408,Jeremy Turner,México,47,No especificado,Ingeniero,92643.64,19
+409,Anthony Romero,Estados Unidos,43,Femenino,Ingeniero,116954.58,37
+410,Jesse Brown,India,20,Femenino,Artista,111050.03,34
+411,Angela Lin,Estados Unidos,22,Femenino,Ingeniero,57321.79,11
+412,Lisa Hunter,Brasil,59,No especificado,Abogado,68679.92,24
+413,Julian Conner,Japón,42,Femenino,Doctor,108754.95,34
+414,Joanna Pacheco,Brasil,59,Femenino,Doctor,43201.57,34
+415,Erica Alvarez,México,51,Masculino,Diseñador,128526.81,1
+416,Antonio Garcia,Alemania,47,No especificado,Científico,75136.64,24
+417,Gwendolyn Klein,Reino Unido,33,Femenino,Artista,40165.78,12
+418,Carrie Wright,India,20,No especificado,Abogado,99940.02,1
+419,Jeffrey Mills,Reino Unido,31,Masculino,Doctor,97212.74,28
+420,Jake Campbell,Australia,61,No especificado,Ingeniero,51815.44,2
+421,George Harper,México,46,Masculino,Científico,48245.0,3
+422,Maria Jones,Brasil,50,Femenino,Diseñador,126052.21,36
+423,Michael Mitchell,China,54,No especificado,Artista,50797.52,9
+424,Mary Escobar,Sudáfrica,32,Femenino,Analista de Datos,55770.01,35
+425,Felicia Aguilar,Australia,65,Masculino,Abogado,92260.59,3
+426,Gregory Ponce,China,59,No especificado,Abogado,122154.6,20
+427,Jenna Larson,México,44,Masculino,Analista de Datos,68939.82,34
+428,Emily Bennett,Japón,33,Masculino,Analista de Datos,131480.36,9
+429,Robin Santiago,Japón,21,No especificado,Abogado,145812.2,35
+430,Nancy Jennings,Sudáfrica,26,Femenino,Diseñador,53149.43,21
+431,Maria Henderson,India,46,Femenino,Doctor,89632.62,12
+432,Jack White,Estados Unidos,35,Femenino,Mecánico,98379.87,4
+433,Travis Tucker,Reino Unido,55,No especificado,Científico,48212.15,13
+434,Chad Jones,China,37,Masculino,Diseñador,141830.77,7
+435,Ashley Wise,Japón,33,No especificado,Mecánico,111489.92,25
+436,Sophia Johnson,Reino Unido,53,Femenino,Analista de Datos,69486.03,34
+437,Ralph Anderson,China,37,Femenino,Artista,86666.15,31
+438,Christopher Guerra,Japón,24,No especificado,Programador,119011.77,20
+439,Rhonda Martin,Reino Unido,41,Femenino,Abogado,25943.01,14
+440,Jason Rhodes,Brasil,19,Femenino,Científico,141518.57,37
+441,Jeremy Mitchell,México,36,Masculino,Diseñador,62882.49,24
+442,Joann Ferguson,Australia,33,Femenino,Científico,105099.04,21
+443,Robert Harrison,Alemania,49,No especificado,Programador,79907.77,22
+444,Holly Valentine,Brasil,26,No especificado,Científico,83481.12,34
+445,Mrs. Diane Reyes,Estados Unidos,51,Masculino,Doctor,142874.45,3
+446,Tracy Montoya,Estados Unidos,44,Masculino,Diseñador,28835.83,9
+447,Brenda Wright,Estados Unidos,31,No especificado,Programador,68516.09,39
+448,Shelly Spencer,Australia,48,No especificado,Programador,22045.13,34
+449,Ryan Rosales,Sudáfrica,44,Masculino,Ingeniero,88824.29,17
+450,Phillip Nelson,Sudáfrica,36,Masculino,Científico,125710.44,27
+451,Brittany Kim,Brasil,24,Masculino,Científico,39356.67,12
+452,Courtney Hayes,Australia,51,Femenino,Artista,54752.22,25
+453,Alexander Brown,India,41,Femenino,Programador,93450.28,14
+454,Cynthia Vang,Alemania,61,Masculino,Ingeniero,32155.07,24
+455,Alfred Galvan,México,53,Femenino,Ingeniero,102777.25,10
+456,Marie Moody,India,49,Femenino,Artista,93561.36,6
+457,Dustin Gallegos,Sudáfrica,20,Masculino,Diseñador,137165.48,36
+458,Brenda Thornton,Japón,35,Masculino,Doctor,108975.74,17
+459,Aaron Miller,Sudáfrica,54,No especificado,Ingeniero,43316.09,20
+460,Ruben Dunn,Estados Unidos,31,No especificado,Profesor,117793.08,25
+461,Kelsey Rodriguez,India,37,Masculino,Mecánico,51261.39,24
+462,Eric Williams,Sudáfrica,39,Femenino,Profesor,122764.75,5
+463,Riley Bryant,Sudáfrica,65,Femenino,Ingeniero,32699.15,14
+464,Taylor Carlson,India,39,No especificado,Mecánico,144131.59,25
+465,Jose Allen,China,19,No especificado,Analista de Datos,121861.26,28
+466,Jeffrey Mendez,Japón,32,Femenino,Científico,142348.57,27
+467,Jason Beck,Brasil,61,No especificado,Abogado,31140.24,39
+468,William Jones,Alemania,33,No especificado,Doctor,30664.94,9
+469,Katie Mcneil,México,63,No especificado,Profesor,116155.19,20
+470,Jeanette Harrison,China,24,Masculino,Ingeniero,142584.83,28
+471,Veronica King,China,35,Masculino,Profesor,31348.64,27
+472,Richard Cooper,Japón,53,No especificado,Científico,73045.74,1
+473,Lori Ingram,India,40,No especificado,Doctor,97600.19,20
+474,Evelyn Williams,México,18,Femenino,Abogado,70413.94,5
+475,Robin Thompson,Sudáfrica,33,No especificado,Científico,42045.78,24
+476,Julie Dominguez,Brasil,26,Femenino,Analista de Datos,54892.88,9
+477,Robin Brown,India,28,Femenino,Analista de Datos,74743.3,30
+478,Judith Carter,India,41,Femenino,Diseñador,113716.93,31
+479,Curtis Williams,Australia,57,Masculino,Programador,33906.41,19
+480,Kaylee Hays,Estados Unidos,43,Femenino,Mecánico,69385.69,21
+481,Dawn Mullins,Japón,39,Femenino,Mecánico,37696.18,20
+482,Howard Norman,Australia,62,Masculino,Programador,60843.83,25
+483,Evelyn Martinez,China,36,No especificado,Programador,145809.2,15
+484,Steve Paul,China,42,Femenino,Abogado,67452.02,36
+485,Jasmine Beltran,Reino Unido,55,No especificado,Profesor,108622.64,35
+486,Jonathan Glass MD,Estados Unidos,64,Femenino,Diseñador,76999.14,18
+487,Monica Miller,India,44,No especificado,Programador,38093.29,19
+488,Samantha Gardner,Reino Unido,34,No especificado,Profesor,112980.73,24
+489,Bobby Guerrero,India,46,No especificado,Programador,95691.72,34
+490,Lance Simmons,Sudáfrica,62,Femenino,Científico,24779.47,23
+491,Heather Williams,Sudáfrica,56,No especificado,Doctor,34218.03,15
+492,Heather Bolton,China,28,No especificado,Mecánico,25758.57,25
+493,William Gould,China,45,Masculino,Ingeniero,32818.85,14
+494,Mark Cox,Sudáfrica,65,No especificado,Científico,95467.38,36
+495,Meghan Cisneros,Reino Unido,46,Femenino,Abogado,80198.22,37
+496,Lawrence Harrington,Sudáfrica,27,Femenino,Ingeniero,82760.24,18
+497,Austin Osborne,México,23,Masculino,Profesor,65282.72,21
+498,James Bradley,Japón,31,No especificado,Programador,65279.04,6
+499,Meghan Rush,Japón,64,No especificado,Programador,61458.23,19
+500,Phillip Berry,Estados Unidos,63,Masculino,Ingeniero,130393.4,6
+501,Jennifer Banks,Brasil,65,Masculino,Científico,42678.92,10
+502,Brian Fitzgerald,China,53,Femenino,Programador,50141.22,25
+503,Mr. Justin Green III,Brasil,29,No especificado,Abogado,71425.71,39
+504,Zachary Mitchell,Reino Unido,46,No especificado,Abogado,70548.65,13
+505,Katherine Martinez,Reino Unido,35,No especificado,Doctor,95055.23,34
+506,Jodi Roach,Brasil,41,Femenino,Diseñador,79481.55,16
+507,Brandon Fleming,Japón,51,No especificado,Artista,97606.21,39
+508,Emma Reed,México,55,Masculino,Artista,65758.04,29
+509,Joshua Vance,Australia,29,No especificado,Analista de Datos,139428.74,37
+510,Michelle Ho,India,61,Masculino,Artista,35322.01,19
+511,Rebecca Hicks,India,29,Femenino,Profesor,86407.23,26
+512,Curtis Taylor,Australia,26,No especificado,Abogado,74995.04,31
+513,Allison Spencer,Sudáfrica,62,No especificado,Profesor,92138.63,31
+514,Robert Arnold,Alemania,26,Masculino,Artista,129458.08,39
+515,Angelica Parker,Estados Unidos,40,Masculino,Programador,37749.51,24
+516,Dr. Kelly Hammond DVM,Sudáfrica,50,No especificado,Programador,73187.47,31
+517,William Day,México,63,Femenino,Programador,41742.95,36
+518,Michael Cooper,Estados Unidos,32,Femenino,Ingeniero,55730.88,34
+519,Penny Bowman,Alemania,28,Femenino,Mecánico,116527.37,31
+520,Vincent Reynolds,Sudáfrica,50,Masculino,Mecánico,34846.86,34
+521,Amy Martinez,China,52,Masculino,Programador,91025.93,27
+522,Christopher Morris,India,65,No especificado,Diseñador,58702.16,2
+523,Hannah Everett,Japón,34,Femenino,Doctor,77079.09,7
+524,Sarah King,Reino Unido,31,No especificado,Mecánico,109587.37,39
+525,Krista Martinez,México,28,No especificado,Profesor,122030.41,13
+526,Joseph Shaw,Estados Unidos,54,Femenino,Científico,56541.05,34
+527,Todd Moore,Brasil,38,No especificado,Analista de Datos,57613.32,17
+528,Michelle Jacobs,Sudáfrica,61,Masculino,Profesor,145160.36,26
+529,Kristy Bryan,Estados Unidos,35,No especificado,Profesor,111185.45,8
+530,Angel May,Reino Unido,27,No especificado,Artista,127702.63,25
+531,Marilyn Wang,Japón,27,No especificado,Analista de Datos,101615.67,24
+532,Mark Jimenez,Japón,22,No especificado,Doctor,72370.6,17
+533,Donna Frye,China,47,Femenino,Artista,95654.22,5
+534,Dr. Michael Evans,Japón,58,No especificado,Artista,130513.81,34
+535,Anthony Gonzales,México,31,Femenino,Diseñador,84312.94,20
+536,Mr. Lawrence Edwards,Alemania,39,No especificado,Mecánico,36977.25,31
+537,Morgan Valencia,China,61,Masculino,Ingeniero,32944.72,29
+538,Bianca Wood,Estados Unidos,25,Masculino,Programador,79347.36,27
+539,Emma Owens,Reino Unido,62,Masculino,Analista de Datos,40667.07,17
+540,David Davis,India,59,Femenino,Analista de Datos,30714.67,10
+541,James Gilbert,Estados Unidos,43,No especificado,Analista de Datos,114378.49,14
+542,Sean Moore,México,59,Masculino,Doctor,20141.22,30
+543,Kenneth Edwards,India,26,No especificado,Diseñador,87527.75,28
+544,Kathleen Robertson,Estados Unidos,18,No especificado,Artista,126224.17,27
+545,Mr. Alexander Landry MD,Brasil,48,Masculino,Diseñador,69799.09,6
+546,Cindy Gomez,India,38,Femenino,Analista de Datos,37826.81,8
+547,Johnny Khan,Brasil,22,No especificado,Mecánico,21101.72,10
+548,Julie Herrera,Japón,40,No especificado,Diseñador,101650.4,9
+549,Jessica Khan,México,57,No especificado,Programador,131795.13,5
+550,Pamela Diaz,India,26,Masculino,Mecánico,114901.19,22
+551,Kelly Lee,México,38,Masculino,Diseñador,56005.8,5
+552,Angel Gordon,Reino Unido,53,No especificado,Mecánico,113753.35,18
+553,Diana Hays,Estados Unidos,60,Femenino,Diseñador,87307.39,32
+554,Barbara Hester,Reino Unido,65,Femenino,Analista de Datos,104002.07,15
+555,Robert Morgan,Japón,42,Masculino,Diseñador,84945.73,38
+556,Nicole Gonzalez,India,51,Masculino,Artista,141410.17,8
+557,Kathryn Williams,México,54,Femenino,Artista,91026.31,11
+558,Gary Wells,Japón,22,Masculino,Mecánico,28779.23,16
+559,Larry Robertson,Reino Unido,20,Masculino,Abogado,85859.38,40
+560,Louis Martin,Sudáfrica,44,Femenino,Abogado,30715.62,34
+561,Nancy Evans MD,Sudáfrica,57,Masculino,Analista de Datos,30867.62,5
+562,Kim Erickson,Sudáfrica,31,Masculino,Científico,62477.54,37
+563,Robert Richardson,India,37,No especificado,Abogado,114894.59,15
+564,Veronica Silva,Estados Unidos,33,Masculino,Abogado,35078.26,39
+565,Molly Watts,Australia,21,Femenino,Profesor,35527.59,8
+566,John Coffey,Estados Unidos,28,Femenino,Artista,87990.7,16
+567,Paula Lane,Brasil,41,Masculino,Analista de Datos,115281.66,7
+568,Lauren Jackson,Estados Unidos,39,Femenino,Analista de Datos,88101.05,16
+569,Lisa Randall,Australia,58,Masculino,Programador,79175.71,23
+570,Michael Johnson,Estados Unidos,49,No especificado,Profesor,67799.41,16
+571,Ashley Smith,India,54,No especificado,Doctor,49692.58,32
+572,Christian Vaughn,Estados Unidos,20,Masculino,Diseñador,25977.6,23
+573,Reginald Knapp,México,27,Masculino,Ingeniero,91872.42,26
+574,Nancy Brown,Reino Unido,38,Masculino,Abogado,139061.12,20
+575,Daniel Nguyen,Alemania,22,No especificado,Artista,35522.12,3
+576,Kelly Edwards,Brasil,32,No especificado,Ingeniero,144030.32,4
+577,Thomas Peterson,Japón,36,Femenino,Artista,31230.12,29
+578,Raymond Le,Estados Unidos,41,Masculino,Analista de Datos,93294.88,19
+579,Melissa Bishop,Australia,33,Femenino,Artista,96919.82,31
+580,David Grant,Reino Unido,64,No especificado,Diseñador,39573.63,26
+581,William Evans,Estados Unidos,32,No especificado,Artista,102672.44,0
+582,Daniel Bush,China,18,No especificado,Abogado,130370.78,19
+583,Gregory Peck,India,31,No especificado,Diseñador,74576.06,3
+584,Denise Martinez,Brasil,63,Femenino,Doctor,25707.03,14
+585,Jamie Baird,Sudáfrica,44,No especificado,Artista,79599.54,5
+586,Tina Ballard,Australia,24,No especificado,Profesor,102838.04,25
+587,Dwayne Klein,India,55,No especificado,Ingeniero,76547.77,8
+588,Jeremy Scott,Reino Unido,36,Femenino,Artista,140385.45,25
+589,Dale Ryan,China,38,Femenino,Analista de Datos,50369.46,12
+590,Melissa Taylor,Brasil,55,Masculino,Profesor,33735.51,28
+591,Laurie Sanchez,Japón,38,Femenino,Doctor,89670.19,13
+592,Kiara Little,Japón,37,Femenino,Analista de Datos,130822.68,5
+593,Jason Love,Brasil,61,Femenino,Mecánico,25242.88,20
+594,Randy Smith,Brasil,23,No especificado,Diseñador,145892.0,25
+595,Tanya Russell,Sudáfrica,21,No especificado,Analista de Datos,53821.68,11
+596,Sherry Woods,Estados Unidos,43,Femenino,Científico,117250.2,15
+597,Victor Morris,India,47,Masculino,Profesor,35788.92,3
+598,Susan Davis,Reino Unido,26,Masculino,Abogado,68391.17,40
+599,Kimberly Sharp,India,55,No especificado,Analista de Datos,139265.72,4
+600,Susan Thompson,Estados Unidos,22,Masculino,Programador,125208.83,5
+601,Casey Gillespie,China,25,Masculino,Programador,26582.9,36
+602,Jennifer Simpson DVM,México,64,Femenino,Programador,23832.7,27
+603,Tammy Mcdowell,Brasil,40,Masculino,Profesor,55747.63,28
+604,Keith Rodriguez,Brasil,20,No especificado,Mecánico,100207.03,18
+605,Mrs. Virginia Daniels,Japón,44,No especificado,Programador,27927.28,17
+606,Todd Rosales MD,México,26,Femenino,Diseñador,103544.83,33
+607,Brian Martin,Reino Unido,58,No especificado,Ingeniero,148622.47,22
+608,David Lopez,Japón,52,Femenino,Artista,138648.01,32
+609,Rachel Bradley,China,42,Femenino,Profesor,23388.19,38
+610,Casey Chase,Reino Unido,19,Femenino,Ingeniero,125125.0,30
+611,Samantha Robertson,Sudáfrica,40,No especificado,Diseñador,146617.38,6
+612,Michael Lopez,Reino Unido,60,Masculino,Analista de Datos,89379.64,3
+613,Franklin Wright,Reino Unido,54,Femenino,Artista,141576.78,11
+614,David Molina,Brasil,33,No especificado,Artista,124807.33,22
+615,Elizabeth Sharp,Australia,19,No especificado,Artista,143182.64,36
+616,Matthew Schwartz,Brasil,54,Masculino,Programador,90476.2,11
+617,Bryan Parker,Japón,20,Masculino,Ingeniero,50241.04,14
+618,Jonathan Jacobson,Estados Unidos,51,Femenino,Ingeniero,63125.42,39
+619,Emily Wilson,Reino Unido,26,Femenino,Profesor,139441.5,20
+620,Elizabeth Mendez,Estados Unidos,19,Masculino,Mecánico,111610.52,9
+621,Casey Hernandez,India,51,Femenino,Doctor,68566.8,25
+622,Lisa Perry,Australia,24,Femenino,Analista de Datos,61938.42,10
+623,Kaitlin Medina,México,58,Femenino,Artista,42646.35,35
+624,Colleen Wright,Australia,40,Masculino,Mecánico,125879.05,24
+625,Shelley Miller,Alemania,64,No especificado,Analista de Datos,36555.29,0
+626,Michael Miller,Australia,43,No especificado,Ingeniero,43670.63,20
+627,Amy Kelley,Australia,32,No especificado,Mecánico,33534.33,31
+628,Laura Hernandez,Brasil,39,No especificado,Doctor,50939.47,20
+629,Joseph Wilson,Brasil,58,Masculino,Artista,78061.89,16
+630,Kevin Davis,Reino Unido,33,No especificado,Doctor,65562.55,6
+631,Rhonda Chavez,Estados Unidos,21,Femenino,Programador,115235.98,10
+632,Joyce Brown,México,49,Femenino,Artista,90983.12,6
+633,Robert Cummings,Japón,54,No especificado,Diseñador,41145.35,4
+634,Robert Reese,Estados Unidos,36,Masculino,Artista,53946.6,6
+635,Amber Cooper,India,39,Masculino,Abogado,40917.58,4
+636,Zachary Michael,Sudáfrica,23,Femenino,Mecánico,148085.89,30
+637,Timothy Johnson,Estados Unidos,45,No especificado,Profesor,98951.29,27
+638,Randy Cannon,Brasil,21,Masculino,Artista,46721.56,12
+639,Maria Fisher,México,62,No especificado,Científico,54484.42,18
+640,Janet Kane DVM,Alemania,33,Masculino,Ingeniero,71077.29,35
+641,Michael Stanley,Japón,27,Masculino,Artista,20496.02,5
+642,Martha Bailey,Alemania,60,No especificado,Mecánico,82442.69,6
+643,Joshua Rice,Estados Unidos,31,Masculino,Analista de Datos,147017.5,30
+644,Courtney Smith,India,37,Femenino,Programador,83582.59,16
+645,Edwin Nunez,India,59,No especificado,Abogado,44034.56,24
+646,Kim Morrow,China,29,Femenino,Ingeniero,54228.48,29
+647,Gregory Hill,Alemania,32,Femenino,Mecánico,28013.12,6
+648,Molly Rodriguez,India,60,Femenino,Científico,73818.26,37
+649,Jennifer Miranda,Reino Unido,53,Masculino,Abogado,126392.68,26
+650,Alexis Harris,Sudáfrica,61,Femenino,Mecánico,134615.0,30
+651,Andrew Harper,Alemania,23,Femenino,Ingeniero,85273.19,33
+652,Amber Yang,Australia,61,No especificado,Profesor,35636.64,28
+653,David Robinson,Brasil,28,Masculino,Diseñador,36404.18,27
+654,Amy Gordon,India,61,Femenino,Diseñador,149645.0,40
+655,Robert Dennis,Brasil,56,Femenino,Artista,138404.58,4
+656,Kyle Chambers,India,42,No especificado,Abogado,91767.04,17
+657,Eric Thomas,Sudáfrica,47,Masculino,Mecánico,96384.89,26
+658,Connie Turner,India,44,Masculino,Profesor,93657.21,37
+659,Travis Hobbs,India,24,No especificado,Doctor,122146.93,34
+660,Lori Simmons,China,44,Femenino,Abogado,105122.4,36
+661,William David DDS,Australia,48,Masculino,Profesor,55803.84,9
+662,Emma Butler,Australia,56,No especificado,Abogado,25041.73,21
+663,James Webster,Reino Unido,21,No especificado,Programador,139708.55,23
+664,Samuel Turner,Estados Unidos,39,Femenino,Analista de Datos,56445.06,31
+665,Renee Melendez,India,32,Masculino,Analista de Datos,146648.53,28
+666,Tracy Grant,China,35,No especificado,Abogado,98647.29,5
+667,David Harris,Reino Unido,46,Masculino,Abogado,116322.82,33
+668,Tammy Boone,China,21,No especificado,Profesor,28530.21,32
+669,Nathaniel Lee,México,26,No especificado,Mecánico,23763.26,12
+670,Michael Morrison,Reino Unido,21,Masculino,Ingeniero,79338.33,23
+671,Chelsea Gill,Reino Unido,35,Femenino,Programador,85666.43,40
+672,Kristin Mendoza,India,61,Masculino,Diseñador,68420.68,38
+673,Felicia Krueger,Japón,29,Femenino,Mecánico,91673.38,22
+674,Timothy Hayden,Brasil,34,No especificado,Doctor,57059.02,24
+675,Zachary Mendoza,Estados Unidos,28,No especificado,Diseñador,131424.45,14
+676,Larry Harris,Reino Unido,35,No especificado,Abogado,86726.56,0
+677,Kristen Rowe,Japón,26,No especificado,Profesor,98148.45,0
+678,Joseph Howard,Reino Unido,34,No especificado,Analista de Datos,112656.26,17
+679,Jose Crawford,México,42,Femenino,Programador,52759.83,29
+680,William Harrison,Alemania,61,No especificado,Mecánico,71629.83,6
+681,Suzanne Wood,Estados Unidos,50,No especificado,Artista,92989.43,38
+682,Justin Walker,Australia,36,Femenino,Doctor,82625.99,21
+683,Dean Donovan,Alemania,58,Femenino,Analista de Datos,53949.1,19
+684,Jennifer Hernandez,Reino Unido,27,No especificado,Diseñador,136959.32,38
+685,James Whitaker,México,60,Femenino,Profesor,113766.82,31
+686,Mr. Michael Scott PhD,Alemania,34,Femenino,Abogado,70475.74,2
+687,Maria Henry,Australia,63,No especificado,Diseñador,64611.72,14
+688,Robert Jackson,Sudáfrica,58,Femenino,Artista,85950.93,10
+689,Katherine Stark,Sudáfrica,29,Femenino,Doctor,81201.51,16
+690,Maria Brown,Sudáfrica,29,No especificado,Artista,105076.5,14
+691,Ryan Landry,China,32,No especificado,Analista de Datos,74661.43,21
+692,Pamela Gutierrez,China,34,No especificado,Analista de Datos,80288.88,7
+693,Crystal Mann,Japón,21,No especificado,Mecánico,95440.7,39
+694,Jonathan Brooks,India,48,Masculino,Científico,35576.07,24
+695,Mary Jensen,Sudáfrica,37,Femenino,Ingeniero,133210.39,9
+696,Mr. Aaron Arnold,Brasil,30,Femenino,Abogado,148334.91,29
+697,Joseph Hill,Brasil,38,No especificado,Profesor,121262.35,31
+698,Alicia Li,China,58,Masculino,Artista,102484.87,0
+699,Renee Browning,Japón,35,Masculino,Profesor,94916.26,10
+700,Brent Hernandez,Japón,23,Masculino,Mecánico,76382.48,27
+701,Joseph Ochoa,México,45,Femenino,Abogado,20606.99,34
+702,James Watson,Reino Unido,64,Femenino,Ingeniero,135960.83,33
+703,Karl Branch,Reino Unido,19,No especificado,Ingeniero,101469.3,15
+704,Michael Abbott,Reino Unido,62,Femenino,Analista de Datos,36761.0,24
+705,Shannon Malone,Sudáfrica,55,Femenino,Profesor,28487.31,2
+706,James Tran,Alemania,36,Femenino,Científico,97528.09,21
+707,Adam Jackson,México,61,Masculino,Artista,149498.06,31
+708,Mr. Richard Knight PhD,China,30,Masculino,Abogado,22486.22,14
+709,Joseph Williams,Brasil,31,No especificado,Ingeniero,96660.07,10
+710,Sean Clay,India,41,No especificado,Ingeniero,68775.02,40
+711,Anthony Jones,Alemania,52,No especificado,Ingeniero,97210.13,3
+712,Stephanie Elliott,India,59,Masculino,Ingeniero,109667.47,26
+713,Timothy Edwards,Japón,42,Masculino,Científico,52855.98,9
+714,Laurie Goodwin,Reino Unido,62,No especificado,Ingeniero,59145.14,6
+715,Jennifer Jones,Sudáfrica,35,No especificado,Mecánico,111094.43,26
+716,David Davenport,India,50,No especificado,Mecánico,35305.49,7
+717,Steven Rivera,India,49,Masculino,Mecánico,45967.42,16
+718,Brenda Hinton,Sudáfrica,30,Femenino,Abogado,58395.66,2
+719,Kathryn Mccann,Sudáfrica,49,Masculino,Programador,62978.47,0
+720,Jeffrey Roberson,Estados Unidos,60,Masculino,Doctor,128580.18,31
+721,Randy Friedman,Brasil,23,No especificado,Doctor,114063.27,6
+722,Raymond Johnson,Alemania,59,Masculino,Programador,148526.57,18
+723,Willie Henry,Alemania,47,Masculino,Doctor,125713.19,2
+724,Todd Reynolds,Alemania,41,No especificado,Artista,75379.38,7
+725,Mary Miller,India,20,Masculino,Profesor,106236.15,10
+726,Rebecca Marquez,China,40,Femenino,Mecánico,54880.22,5
+727,Christian Dawson,China,39,Masculino,Doctor,72101.08,29
+728,Nancy Stewart,Alemania,42,No especificado,Programador,123986.88,10
+729,Aaron Parker,India,26,No especificado,Ingeniero,147603.99,10
+730,Derrick Anderson,India,44,No especificado,Programador,124294.42,28
+731,Jerry Peters,Brasil,57,Femenino,Artista,99476.59,8
+732,Alexander Gomez,Japón,49,Masculino,Abogado,77289.42,4
+733,Kyle Nguyen,Alemania,59,Femenino,Ingeniero,111593.86,33
+734,Edgar Hughes,Australia,64,No especificado,Diseñador,147126.42,21
+735,Steven Stein,Sudáfrica,51,No especificado,Mecánico,32381.48,15
+736,Laura Jackson,Japón,40,No especificado,Abogado,39325.08,35
+737,Charles Turner,Australia,21,Masculino,Profesor,85723.78,30
+738,Arthur Hamilton MD,Japón,28,Masculino,Programador,61682.4,21
+739,Mr. David Wright,Alemania,21,No especificado,Diseñador,91564.42,24
+740,Linda Gonzalez,México,33,Masculino,Programador,77744.55,36
+741,Eric Rush,Japón,23,Femenino,Programador,61088.0,31
+742,Manuel Brock,Estados Unidos,24,Femenino,Abogado,24658.15,35
+743,George Ochoa,Estados Unidos,23,No especificado,Mecánico,102879.96,32
+744,Valerie Taylor,Sudáfrica,31,No especificado,Programador,143546.17,23
+745,Travis Harris,Estados Unidos,32,Femenino,Artista,92819.61,39
+746,Vincent Novak,Australia,48,No especificado,Artista,113068.76,7
+747,Michael Henry,India,60,Masculino,Ingeniero,64376.42,40
+748,Dana Bennett,Alemania,53,No especificado,Artista,111272.49,2
+749,Jenna Wilson,Brasil,49,Masculino,Abogado,33905.0,39
+750,Leslie Gardner,Reino Unido,30,Masculino,Abogado,48026.64,12
+751,Krista Benton,China,24,Femenino,Ingeniero,140461.45,37
+752,Michael Gonzales,India,46,Femenino,Mecánico,144304.74,8
+753,Michael Fuentes,Japón,18,No especificado,Ingeniero,91919.42,27
+754,Jennifer Porter,Australia,48,No especificado,Profesor,109936.3,11
+755,Dana Hopkins,Brasil,24,Femenino,Mecánico,98800.9,20
+756,Rachel Jones,Sudáfrica,42,Femenino,Mecánico,139068.33,15
+757,Karen Morales DDS,Alemania,43,Femenino,Analista de Datos,78869.94,8
+758,Melissa Stephens,Brasil,44,No especificado,Científico,58858.71,35
+759,Heather Woodard,China,63,No especificado,Científico,102235.83,12
+760,Margaret Miller,Reino Unido,57,No especificado,Analista de Datos,109259.47,8
+761,Mary Kelly,Brasil,50,No especificado,Artista,112345.85,22
+762,Amanda Terrell,Sudáfrica,48,No especificado,Mecánico,142547.57,26
+763,Jennifer Goodwin,Sudáfrica,36,Femenino,Ingeniero,87954.9,1
+764,Jessica Smith,México,27,Masculino,Ingeniero,45987.31,10
+765,Jorge Stone,Alemania,61,Femenino,Profesor,129119.64,18
+766,Laura Griffin,Reino Unido,52,Masculino,Artista,125823.41,6
+767,Raymond Chapman,Australia,61,No especificado,Científico,132429.39,35
+768,Haley Johnson,México,33,No especificado,Analista de Datos,110081.69,3
+769,Jason Nixon,México,42,Femenino,Artista,145558.32,3
+770,Todd Thomas,Estados Unidos,65,Femenino,Diseñador,100673.02,28
+771,Jesse Clark,Reino Unido,58,No especificado,Artista,118164.0,34
+772,Mr. Jeffrey Horton,Australia,30,No especificado,Diseñador,58243.1,11
+773,Eric Patrick,India,29,Masculino,Científico,35516.0,2
+774,Samuel Wong,México,35,No especificado,Analista de Datos,36908.65,37
+775,Carly Riggs,Alemania,18,Femenino,Programador,112259.61,9
+776,Christopher Moore,Estados Unidos,27,Femenino,Mecánico,26611.21,40
+777,Tina Hall,Australia,60,Femenino,Programador,122688.06,35
+778,Cody Davidson,China,22,No especificado,Artista,88301.36,11
+779,Allen Mendez,Sudáfrica,22,No especificado,Profesor,74071.06,34
+780,Kevin Price,México,23,Femenino,Diseñador,134841.58,21
+781,Christine Goodwin,China,41,Femenino,Diseñador,143540.08,39
+782,Amy Garcia,Sudáfrica,48,No especificado,Ingeniero,34913.85,22
+783,Chelsea Nguyen,Japón,33,No especificado,Mecánico,139418.95,15
+784,Dennis Huffman,Estados Unidos,61,Femenino,Abogado,139071.22,7
+785,Margaret Harper,México,34,No especificado,Analista de Datos,23211.74,33
+786,Laurie Bailey,China,50,No especificado,Programador,83284.61,18
+787,Lisa Cervantes,Reino Unido,38,No especificado,Doctor,143267.54,10
+788,Elizabeth Mendez,Sudáfrica,52,Masculino,Doctor,47401.59,40
+789,Cesar Wilson,Reino Unido,61,Femenino,Doctor,46725.34,27
+790,Clayton Steele,India,65,No especificado,Profesor,23087.88,21
+791,Jennifer Taylor,Estados Unidos,23,Masculino,Ingeniero,43138.98,16
+792,Cody Reid,Sudáfrica,22,No especificado,Diseñador,138428.25,26
+793,Maria Cooke,México,46,No especificado,Abogado,76293.25,1
+794,Katherine Taylor,México,61,Masculino,Científico,20766.86,39
+795,Jerry Brown,India,65,No especificado,Ingeniero,111114.66,4
+796,Adam Taylor,China,50,Masculino,Analista de Datos,122295.95,19
+797,Tracey Wagner,Australia,23,Femenino,Programador,69583.76,1
+798,Michael Perry PhD,Japón,28,No especificado,Diseñador,37729.59,25
+799,Bradley Johnson DDS,Sudáfrica,36,No especificado,Profesor,58747.35,23
+800,Donald Medina,Estados Unidos,53,No especificado,Profesor,36020.57,0
+801,Jim Newton,Australia,56,Femenino,Científico,91178.31,5
+802,Krista Wilson,Alemania,31,No especificado,Artista,47525.8,32
+803,Reginald Morrow,Brasil,28,Masculino,Diseñador,100195.04,16
+804,Rodney Williams,Reino Unido,25,Masculino,Mecánico,130792.65,35
+805,Kimberly Fritz,Japón,59,No especificado,Doctor,57784.85,4
+806,Ronald Potter,Alemania,24,Masculino,Mecánico,83334.75,21
+807,Zachary Cole,China,26,No especificado,Diseñador,33005.86,39
+808,Robert Gonzales,India,30,Femenino,Programador,78583.98,39
+809,Patricia Young PhD,Alemania,62,No especificado,Profesor,93521.76,23
+810,Heather Page,China,45,Masculino,Ingeniero,60717.92,14
+811,Carol Taylor,México,35,Femenino,Profesor,108345.42,21
+812,Daniel Brown,Japón,47,Femenino,Artista,120719.7,31
+813,Douglas Ryan,Sudáfrica,24,Masculino,Mecánico,30656.58,17
+814,Michael Roberts,Brasil,52,Masculino,Analista de Datos,115360.8,40
+815,Scott Duke,India,64,Masculino,Ingeniero,130446.35,40
+816,Anna Estes,Estados Unidos,55,No especificado,Abogado,119996.03,13
+817,Tamara Riddle,Estados Unidos,53,Femenino,Científico,136218.17,34
+818,Beth Cline,Japón,59,Masculino,Artista,71024.78,37
+819,Michael Poole,Alemania,26,Femenino,Científico,86353.56,25
+820,Megan Burns,China,50,Masculino,Diseñador,130237.64,39
+821,Debra Perry,Brasil,50,Masculino,Programador,40698.91,36
+822,Mark Beard,Australia,60,Masculino,Programador,142092.78,2
+823,Jose Ramirez,Reino Unido,49,Masculino,Doctor,54366.42,14
+824,Jackie Clements,Estados Unidos,60,Masculino,Científico,138004.39,23
+825,Aaron Schroeder,México,48,Femenino,Ingeniero,25187.61,20
+826,Monica Ellis,India,63,No especificado,Analista de Datos,128533.39,16
+827,Heather Brown,Australia,52,No especificado,Profesor,68965.74,24
+828,Claudia Jordan,China,55,No especificado,Doctor,87166.18,24
+829,Derrick Clayton,Reino Unido,51,Femenino,Artista,126240.78,22
+830,Kenneth Knight,Japón,48,No especificado,Ingeniero,85238.81,8
+831,Mr. Michael Williams,Japón,28,Masculino,Doctor,86890.37,17
+832,Richard Stevens,Reino Unido,27,Masculino,Profesor,67088.98,7
+833,Scott Alexander,Reino Unido,44,Femenino,Doctor,82597.16,30
+834,Tyler Harris,Japón,31,No especificado,Profesor,104143.7,26
+835,Bonnie Santos,Estados Unidos,33,Masculino,Profesor,94553.25,10
+836,Timothy Hill,Brasil,58,No especificado,Ingeniero,135803.7,9
+837,Danielle Watson,Estados Unidos,28,Femenino,Profesor,87163.29,25
+838,Carol Sanders,Australia,54,No especificado,Ingeniero,134206.17,18
+839,Michael Young,India,31,Femenino,Mecánico,149060.86,30
+840,Michele Smith,Brasil,32,Femenino,Mecánico,38552.58,37
+841,Casey Perez,Brasil,57,No especificado,Científico,54387.69,21
+842,Alexandra Dominguez,Japón,56,No especificado,Doctor,49875.79,24
+843,Virginia Henderson,Brasil,24,Masculino,Diseñador,87952.47,32
+844,Benjamin Reyes,México,27,No especificado,Doctor,43064.88,39
+845,Ashley Edwards,Australia,20,No especificado,Científico,117809.81,5
+846,Breanna Ayala,Japón,60,Masculino,Mecánico,90107.18,0
+847,Brandi Haney,México,51,Femenino,Artista,133727.16,33
+848,Joseph Smith,México,32,Femenino,Abogado,65567.32,36
+849,Jessica Bowen,India,45,Masculino,Analista de Datos,82028.36,14
+850,Brittany Jenkins,India,36,No especificado,Científico,73124.07,12
+851,Shannon Miller,Estados Unidos,63,No especificado,Ingeniero,95138.33,7
+852,Paul Lawrence,Sudáfrica,18,Femenino,Diseñador,109409.68,20
+853,Victor Edwards,México,41,Masculino,Profesor,75389.31,37
+854,Donald Miller,Alemania,34,No especificado,Abogado,93407.13,39
+855,Lindsay Lawson,Alemania,61,Femenino,Diseñador,73719.66,35
+856,Melissa Abbott,Japón,29,Femenino,Científico,92138.48,16
+857,Elizabeth Holmes,Alemania,54,Femenino,Abogado,115651.72,7
+858,Nicole Phillips,Reino Unido,46,No especificado,Profesor,33036.22,32
+859,Steven Blevins,México,39,No especificado,Mecánico,110617.46,3
+860,Brian Porter MD,Brasil,42,No especificado,Ingeniero,124568.02,9
+861,Vanessa Hatfield,Japón,56,Femenino,Doctor,28330.46,14
+862,Bonnie Valencia,China,23,No especificado,Ingeniero,114184.31,25
+863,Holly Vega,Australia,59,No especificado,Analista de Datos,112508.76,38
+864,Tiffany Townsend,Estados Unidos,29,No especificado,Programador,77066.37,12
+865,Austin Baker,Sudáfrica,36,Masculino,Ingeniero,121914.73,32
+866,Antonio Mccormick,Sudáfrica,62,Masculino,Mecánico,42032.78,2
+867,Lori Mason,China,33,No especificado,Ingeniero,146833.97,5
+868,Michael Miller,Alemania,43,Femenino,Abogado,72708.63,12
+869,Lisa Ramirez,Sudáfrica,18,No especificado,Doctor,139493.06,35
+870,Jorge Harris,Alemania,64,No especificado,Mecánico,65252.38,17
+871,Kimberly Myers,Reino Unido,56,Masculino,Programador,140862.8,36
+872,Sandra Becker,Estados Unidos,34,Masculino,Abogado,85810.95,35
+873,Michael Blair,India,50,Femenino,Artista,143112.01,32
+874,Amy Miller,Alemania,52,No especificado,Analista de Datos,110244.94,24
+875,Jesse Lynch,Australia,48,Masculino,Artista,144961.03,29
+876,Patrick Yang,Japón,55,Masculino,Programador,35114.88,4
+877,Michael Miles,México,58,Masculino,Diseñador,124020.98,26
+878,Troy Mills,China,51,No especificado,Ingeniero,111106.41,16
+879,Michelle Jackson,Reino Unido,36,Masculino,Abogado,107580.73,21
+880,Richard Adams,India,53,Masculino,Programador,60803.46,13
+881,Patricia Johnson,Australia,35,Masculino,Diseñador,84869.91,12
+882,Denise Brown,Reino Unido,65,Masculino,Analista de Datos,46881.22,12
+883,Laura Jones,Reino Unido,57,Femenino,Profesor,121262.0,7
+884,Ian Porter,India,61,No especificado,Programador,99797.51,34
+885,Holly Scott,Estados Unidos,48,Femenino,Mecánico,61004.2,36
+886,Kenneth Sharp,Alemania,49,Masculino,Científico,56434.66,14
+887,Jordan Williams,Australia,26,Masculino,Científico,123905.09,30
+888,Dana Ruiz,Sudáfrica,20,No especificado,Artista,71183.2,11
+889,Chris Velazquez,Japón,25,No especificado,Científico,79809.18,0
+890,Kristen Sloan,Estados Unidos,61,Masculino,Abogado,95531.07,20
+891,Jennifer Morris,China,57,Femenino,Profesor,91313.24,15
+892,Nathan Nelson,Alemania,48,No especificado,Artista,67570.14,31
+893,Jake Shaw,México,31,Femenino,Artista,67460.14,25
+894,Cassie Brock,Alemania,46,Masculino,Mecánico,37048.09,36
+895,Dr. Andrea Marshall,Reino Unido,24,No especificado,Analista de Datos,124531.39,35
+896,Ryan Murphy,México,42,Masculino,Profesor,124004.87,9
+897,Aimee Gonzalez,Japón,18,Masculino,Abogado,84947.72,40
+898,Elizabeth Dean,Sudáfrica,52,No especificado,Artista,122093.28,19
+899,Kevin Snyder,Alemania,53,No especificado,Ingeniero,71792.25,10
+900,Christie Mccullough,Estados Unidos,31,Femenino,Programador,129066.32,6
+901,Danielle Smith,Japón,65,Femenino,Analista de Datos,66925.06,35
+902,David Reed,Sudáfrica,34,Femenino,Ingeniero,73528.92,22
+903,Sherry Tapia,Australia,30,No especificado,Mecánico,104482.51,34
+904,Matthew Sweeney,Brasil,36,Femenino,Artista,107515.07,31
+905,Ashley Moreno,Japón,23,Femenino,Mecánico,57248.06,40
+906,Johnathan Brown,Brasil,28,No especificado,Artista,74836.14,39
+907,Michelle Davis DVM,Australia,43,Masculino,Doctor,41059.93,14
+908,Kelly Haynes,China,38,No especificado,Analista de Datos,112356.35,38
+909,William Miller,México,35,Femenino,Artista,117226.41,33
+910,Casey Wilkins,Japón,44,Masculino,Profesor,131047.54,8
+911,Keith Graham,Reino Unido,60,Femenino,Doctor,47374.29,25
+912,Cynthia Green,India,24,Masculino,Programador,91296.39,1
+913,Robert Haynes,México,51,Masculino,Doctor,54118.79,9
+914,Emily Nelson,India,59,Femenino,Analista de Datos,49816.27,18
+915,Dale Chan,Japón,58,Masculino,Profesor,88476.5,10
+916,Brittney Martin,Estados Unidos,20,No especificado,Artista,131847.95,20
+917,Jason Herrera,Japón,47,No especificado,Analista de Datos,91310.89,8
+918,Christine Parker,Sudáfrica,29,No especificado,Mecánico,79350.64,40
+919,Bryan Moore,Australia,45,No especificado,Científico,60255.97,22
+920,Samantha Terry,Japón,52,Masculino,Doctor,77441.84,23
+921,Russell Murphy,México,34,Masculino,Analista de Datos,21372.26,33
+922,David Kelly,Brasil,40,Femenino,Programador,89562.86,31
+923,Megan Green,Japón,37,Masculino,Abogado,123735.42,38
+924,Amanda Sullivan MD,Reino Unido,18,No especificado,Artista,44514.23,35
+925,Danielle Murray,México,43,Masculino,Profesor,112941.94,24
+926,Brenda Smith,México,32,Femenino,Doctor,74891.12,15
+927,Vickie Anderson,Sudáfrica,57,No especificado,Analista de Datos,57007.99,34
+928,Jacqueline Mccoy,Alemania,44,Masculino,Doctor,43712.93,18
+929,Lauren Green,India,58,Femenino,Mecánico,78859.74,39
+930,Alison Brown,Japón,30,Femenino,Ingeniero,39779.41,34
+931,Jill Anderson,Estados Unidos,29,Masculino,Analista de Datos,54995.37,28
+932,Sandra Rivera,Estados Unidos,32,Masculino,Profesor,21914.23,13
+933,Joel Jackson,China,44,Femenino,Programador,149735.25,29
+934,Samantha Foster,Estados Unidos,39,Masculino,Profesor,27284.98,25
+935,Michael Thompson,India,52,Femenino,Profesor,44985.0,16
+936,Cody Ramirez,México,18,Masculino,Diseñador,70023.73,28
+937,Amanda Harvey,Reino Unido,65,Masculino,Diseñador,79908.5,6
+938,Edward Jenkins,Sudáfrica,60,Masculino,Programador,70585.98,19
+939,Amy Ramirez,China,28,No especificado,Ingeniero,116814.2,35
+940,Curtis Wilkerson,Sudáfrica,25,Femenino,Programador,103007.6,12
+941,Lydia Pham,China,21,No especificado,Diseñador,146525.63,15
+942,Virginia Casey,México,38,Masculino,Profesor,123270.75,37
+943,Joshua Washington,India,43,Masculino,Ingeniero,145948.54,37
+944,Kathryn Price,Japón,62,No especificado,Profesor,68281.83,5
+945,Francis Robinson,Reino Unido,28,Femenino,Doctor,109172.8,21
+946,Paula Brown,Estados Unidos,21,Femenino,Profesor,111172.66,6
+947,Kendra Wang DVM,Brasil,49,Masculino,Artista,147617.84,22
+948,Ariel Sandoval,Japón,64,Masculino,Ingeniero,109602.5,22
+949,Robert Stark,Brasil,34,Masculino,Programador,111861.38,35
+950,Zachary Robinson,Alemania,52,No especificado,Programador,44670.86,11
+951,Rebecca Kelly,Sudáfrica,40,Femenino,Programador,55792.18,38
+952,Sarah Thompson,Sudáfrica,28,Masculino,Científico,40153.31,18
+953,Renee Wolfe,Alemania,52,Femenino,Programador,20093.58,40
+954,Alyssa Haynes,Sudáfrica,42,No especificado,Profesor,134781.21,39
+955,Kristy Hart,China,57,Masculino,Artista,113730.46,34
+956,William Keith,México,30,No especificado,Programador,119545.43,9
+957,Eric Henry Jr.,Australia,36,Femenino,Abogado,103317.51,7
+958,Daniel Fox,India,51,No especificado,Doctor,25691.04,8
+959,Thomas Harris,Brasil,20,Masculino,Doctor,83098.14,6
+960,Mitchell Sellers,Estados Unidos,54,No especificado,Abogado,105529.76,33
+961,Erica Johnson,Australia,62,No especificado,Analista de Datos,26381.13,14
+962,Sylvia Schroeder,Australia,63,Masculino,Ingeniero,140927.43,13
+963,Shannon Yu,Japón,23,Femenino,Ingeniero,66920.39,26
+964,Tom Foster,China,63,Masculino,Mecánico,54556.03,2
+965,Eric Taylor,India,37,Masculino,Diseñador,144876.28,6
+966,Travis Conner,India,64,Masculino,Científico,70093.04,12
+967,Marie Thompson,Sudáfrica,60,Masculino,Mecánico,101292.26,11
+968,Melissa Mcfarland,Sudáfrica,65,No especificado,Abogado,116994.09,40
+969,Courtney Chapman,Australia,40,No especificado,Programador,111331.55,27
+970,Eric Barker,India,28,Masculino,Científico,72202.43,21
+971,Nicholas Rush,Brasil,52,No especificado,Programador,141357.6,20
+972,Jenna Gamble,Sudáfrica,38,Femenino,Abogado,119343.97,27
+973,Amanda Guzman,China,56,Masculino,Mecánico,90931.41,24
+974,Tracy Walker,Sudáfrica,65,Femenino,Artista,145014.73,28
+975,Taylor Taylor,México,18,No especificado,Ingeniero,147784.34,38
+976,Cynthia Haas,Estados Unidos,51,Masculino,Analista de Datos,20853.95,14
+977,Stephen Davis,Reino Unido,38,Masculino,Analista de Datos,139484.57,32
+978,Margaret Tanner,Sudáfrica,54,No especificado,Profesor,32257.33,29
+979,Derek Wright,China,27,Masculino,Analista de Datos,67720.78,37
+980,David Rodriguez,Reino Unido,32,Femenino,Analista de Datos,31947.67,25
+981,James Oconnor,Australia,31,No especificado,Doctor,114065.47,30
+982,Stacey Snyder,Brasil,49,No especificado,Mecánico,126536.98,6
+983,Joshua Garcia,Australia,59,Femenino,Ingeniero,115002.62,36
+984,Sean Curtis,México,23,Masculino,Artista,65230.93,27
+985,Carla Jones,México,25,Masculino,Mecánico,140724.91,40
+986,Elizabeth Flores,México,21,Femenino,Científico,25353.69,34
+987,Angela Jackson,Australia,27,Femenino,Científico,110709.92,9
+988,Nicholas Payne,Estados Unidos,61,No especificado,Abogado,146235.23,38
+989,Anna Wheeler,Australia,50,Masculino,Diseñador,76151.64,25
+990,Karen Johnson,Brasil,26,Femenino,Doctor,81861.11,3
+991,Carmen Preston,Sudáfrica,43,Femenino,Doctor,71808.51,27
+992,Brian Harris,Brasil,26,Femenino,Científico,45754.11,25
+993,Michael Bowen,Australia,30,No especificado,Mecánico,149620.24,33
+994,Deborah Campbell,Reino Unido,33,Masculino,Analista de Datos,120980.35,20
+995,Anthony Armstrong,Australia,23,Masculino,Abogado,75060.28,22
+996,Brittany Ward,Reino Unido,38,Femenino,Mecánico,105203.28,19
+997,Edward Stanley,Brasil,40,No especificado,Programador,101013.68,28
+998,Christina Johnson,Estados Unidos,32,Masculino,Artista,40278.86,5
+999,Edgar Miller,India,65,Masculino,Diseñador,143362.32,9
+1000,Elizabeth Sanders,Alemania,18,Femenino,Doctor,59665.35,30
+1001,Matthew Davis MD,Estados Unidos,39,Masculino,Científico,47543.79,34
+1002,Stephen Wood,Sudáfrica,34,No especificado,Programador,100995.46,9
+1003,Dennis Marshall,Estados Unidos,42,No especificado,Científico,25652.66,10
+1004,Derrick Brown,Estados Unidos,36,Masculino,Mecánico,55266.59,29
+1005,Mary Miller,Estados Unidos,22,Femenino,Analista de Datos,106187.61,23
+1006,Joshua Arellano,India,19,Femenino,Abogado,50051.92,24
+1007,Kristen Randall,Sudáfrica,63,Masculino,Artista,83006.08,38
+1008,Jennifer Nichols,Sudáfrica,23,Masculino,Diseñador,85084.61,29
+1009,Karen Keith,Sudáfrica,63,Masculino,Ingeniero,52160.98,33
+1010,Blake Orr,Alemania,39,Femenino,Abogado,116770.79,1
+1011,Kathryn Lester,China,61,Femenino,Artista,101280.03,15
+1012,Megan Oliver,Sudáfrica,35,Masculino,Analista de Datos,134228.05,1
+1013,Peter Thompson,Sudáfrica,35,Masculino,Profesor,64432.2,25
+1014,Dr. Rhonda Martinez,Brasil,23,No especificado,Abogado,87693.32,39
+1015,William Graham,Reino Unido,44,Masculino,Mecánico,39857.39,19
+1016,Lori Flowers MD,Australia,39,Femenino,Científico,37130.38,8
+1017,Suzanne Jones,Australia,52,No especificado,Diseñador,132136.4,19
+1018,James Nguyen,Sudáfrica,26,Femenino,Profesor,105310.13,36
+1019,Jimmy Marks,Brasil,38,Masculino,Científico,89285.0,7
+1020,Lisa Mills,Brasil,38,Masculino,Ingeniero,119506.55,26
+1021,Jason Hernandez,México,37,Femenino,Analista de Datos,39754.42,12
+1022,Olivia Ayers,India,26,Masculino,Ingeniero,119118.17,39
+1023,Kristine Garcia,Australia,35,No especificado,Mecánico,99607.06,38
+1024,Joseph Cooper,Reino Unido,32,No especificado,Ingeniero,66703.97,30
+1025,James Washington,Brasil,50,No especificado,Programador,112562.49,23
+1026,Amanda Hill,Brasil,42,Femenino,Programador,37876.65,12
+1027,Lee Steele,Reino Unido,20,Femenino,Ingeniero,140306.56,26
+1028,Steve Rivera,Reino Unido,65,No especificado,Diseñador,118510.96,4
+1029,Patrick Mccall,Brasil,46,No especificado,Programador,109422.15,29
+1030,Alicia Roth,Reino Unido,45,Femenino,Ingeniero,99030.89,24
+1031,Douglas Vasquez,China,43,No especificado,Mecánico,97194.75,33
+1032,Annette Melton,Estados Unidos,51,Masculino,Programador,79397.06,2
+1033,William Ramos,Reino Unido,51,No especificado,Abogado,147897.98,2
+1034,Debra Butler,Sudáfrica,42,No especificado,Ingeniero,44680.54,28
+1035,Chelsea Lewis,México,37,Femenino,Programador,41643.26,18
+1036,Natalie Malone,Australia,21,No especificado,Científico,137477.83,29
+1037,Samantha Robertson,Japón,23,No especificado,Científico,34712.31,37
+1038,Eric Hunter,Sudáfrica,26,Femenino,Abogado,62049.92,1
+1039,Samuel Suarez,Brasil,47,No especificado,Diseñador,134731.3,5
+1040,Corey Whitaker,Alemania,38,No especificado,Profesor,113388.71,7
+1041,Danielle Bryant,India,25,No especificado,Programador,102429.41,5
+1042,Michele Hill,Sudáfrica,63,Femenino,Científico,99569.43,10
+1043,Kathy Reid,México,53,Femenino,Ingeniero,119873.84,21
+1044,Andre Watson,Australia,60,Masculino,Profesor,132946.41,11
+1045,Cassandra Harrell,Estados Unidos,44,Femenino,Analista de Datos,114921.03,28
+1046,Hannah Martin,Alemania,58,Masculino,Doctor,136810.45,12
+1047,Nicole Barker,Estados Unidos,57,Femenino,Ingeniero,79623.55,31
+1048,James Martin,Sudáfrica,18,No especificado,Programador,50924.19,37
+1049,Traci Vincent,Japón,47,Femenino,Programador,30322.64,38
+1050,Megan Adams,Estados Unidos,33,No especificado,Analista de Datos,100569.59,35
+1051,Alejandro Deleon,Reino Unido,21,Masculino,Profesor,27158.31,22
+1052,Alexa Buck,Estados Unidos,27,Masculino,Mecánico,128941.88,19
+1053,Lindsay Smith,China,23,Masculino,Doctor,74204.4,11
+1054,Robert Torres,Brasil,61,Femenino,Mecánico,105920.2,38
+1055,Maria Coleman,Australia,53,Masculino,Programador,117413.53,23
+1056,Gregory King,Estados Unidos,23,Femenino,Artista,67914.03,24
+1057,Michael Holloway,India,45,No especificado,Doctor,58068.25,8
+1058,Brian Hunt,India,62,Femenino,Artista,88516.86,33
+1059,Sarah Brooks,Reino Unido,62,Masculino,Mecánico,27564.0,36
+1060,Lisa Evans,Sudáfrica,23,Femenino,Mecánico,141405.92,18
+1061,Arthur Mcneil,México,56,Femenino,Analista de Datos,88300.86,39
+1062,Shannon Green,China,26,No especificado,Mecánico,84531.6,40
+1063,Stephanie Evans,Japón,49,Masculino,Mecánico,50253.81,18
+1064,Ralph Yoder,Reino Unido,18,Masculino,Ingeniero,80435.13,7
+1065,Rebekah Greene,Reino Unido,57,Femenino,Abogado,25913.98,22
+1066,Melanie Griffith,Sudáfrica,58,Masculino,Ingeniero,103280.38,18
+1067,Yolanda Green,Alemania,22,Femenino,Analista de Datos,85869.65,20
+1068,James Johnson,Estados Unidos,25,No especificado,Artista,64377.01,36
+1069,Laura Lee,Australia,19,Masculino,Diseñador,62966.93,21
+1070,Courtney Nichols,Japón,48,Masculino,Profesor,82594.42,40
+1071,Susan Powers,Japón,52,Femenino,Programador,121918.57,26
+1072,Sarah Pittman,Estados Unidos,51,Femenino,Mecánico,114245.34,20
+1073,Catherine Davis,Sudáfrica,52,Masculino,Diseñador,95061.69,21
+1074,David Stokes,China,22,Masculino,Analista de Datos,129296.09,21
+1075,Catherine Frazier,México,58,No especificado,Profesor,94227.61,24
+1076,Brandon Kelly,Brasil,56,Masculino,Analista de Datos,111684.6,20
+1077,Elizabeth French,Estados Unidos,35,Femenino,Doctor,84617.08,15
+1078,David Carter,China,46,Femenino,Diseñador,88263.05,11
+1079,Julie Delacruz,India,41,Masculino,Diseñador,138736.0,28
+1080,Terry Jones,Sudáfrica,19,Femenino,Científico,40030.11,21
+1081,Kathryn Dillon,Japón,64,No especificado,Analista de Datos,120819.32,9
+1082,Edwin Brown,India,51,No especificado,Profesor,46674.32,2
+1083,Brenda Gonzalez,Japón,42,No especificado,Científico,35058.68,19
+1084,Keith Knox,Estados Unidos,61,No especificado,Doctor,63327.67,2
+1085,Eugene Baldwin,India,51,No especificado,Analista de Datos,22922.43,19
+1086,Katherine Welch,Reino Unido,38,Masculino,Diseñador,57253.76,34
+1087,Mark Smith,China,46,No especificado,Doctor,55445.05,10
+1088,Philip Jackson,Alemania,25,Masculino,Mecánico,92751.35,6
+1089,Katherine Gallagher,Reino Unido,52,Femenino,Científico,61403.04,9
+1090,Lucas Schultz,Alemania,54,Masculino,Profesor,29261.57,39
+1091,Vincent Reyes,China,52,Femenino,Ingeniero,36909.62,30
+1092,Curtis Watson,Estados Unidos,24,Femenino,Ingeniero,31195.55,25
+1093,Frank Whitaker,Brasil,63,No especificado,Mecánico,101831.19,28
+1094,Michael Sims,Australia,40,Femenino,Artista,126267.46,34
+1095,Michael Cooper,India,47,No especificado,Profesor,32079.1,29
+1096,James Chapman,India,47,Femenino,Programador,81170.96,14
+1097,Rodney Evans,Brasil,57,Femenino,Artista,70970.0,21
+1098,Nicholas Carlson,China,47,Femenino,Ingeniero,28497.48,7
+1099,Stephen Cowan,China,48,Femenino,Profesor,56693.46,22
+1100,Steven Howard,Australia,54,Masculino,Científico,33381.19,6
+1101,Travis Hull,China,53,No especificado,Doctor,123016.02,34
+1102,Darryl Acosta,Japón,43,No especificado,Abogado,51014.79,15
+1103,Nicholas Lawrence,Sudáfrica,28,Femenino,Abogado,28587.79,13
+1104,Jacob Santos,Australia,45,Femenino,Mecánico,122352.48,34
+1105,Shawn Scott,Reino Unido,29,No especificado,Doctor,116117.72,36
+1106,Amber Vang,Japón,25,No especificado,Mecánico,80178.1,35
+1107,Martha Smith,India,46,Masculino,Analista de Datos,144264.85,4
+1108,Jennifer James,Australia,24,No especificado,Mecánico,120274.64,24
+1109,Kara Hernandez,China,49,No especificado,Ingeniero,31769.29,8
+1110,Lorraine Turner,Australia,58,Masculino,Profesor,105914.58,28
+1111,Mary Nelson,Sudáfrica,36,Femenino,Mecánico,95131.08,12
+1112,Breanna Rivas,Reino Unido,61,Femenino,Analista de Datos,94135.93,19
+1113,Nathan Wilson,México,63,Femenino,Doctor,95754.51,39
+1114,Brian Gonzalez,Sudáfrica,43,Masculino,Analista de Datos,28113.37,35
+1115,Dennis Mills,Estados Unidos,18,No especificado,Científico,126697.93,22
+1116,Michael Phillips,India,36,Masculino,Diseñador,76123.02,37
+1117,Jon Clark,México,58,Femenino,Abogado,72784.25,27
+1118,Erin Smith,Sudáfrica,31,No especificado,Profesor,81733.28,12
+1119,Susan Conley,Sudáfrica,42,Femenino,Abogado,40054.75,8
+1120,Brittany Davis,Brasil,18,Masculino,Ingeniero,38719.47,31
+1121,Misty Garcia,México,26,Masculino,Profesor,103491.58,26
+1122,David Hinton,Japón,62,No especificado,Abogado,101022.3,29
+1123,John Garcia,Sudáfrica,45,No especificado,Programador,70012.91,14
+1124,Andrew Roberts,Brasil,45,No especificado,Ingeniero,95132.01,15
+1125,Emily Rodgers,Sudáfrica,35,Femenino,Científico,94925.81,2
+1126,Peter Williams,Estados Unidos,54,Femenino,Artista,34711.37,30
+1127,Mary Jackson,India,27,No especificado,Científico,147865.28,17
+1128,Jeffrey Howell,Japón,51,Masculino,Científico,135689.01,5
+1129,Anna Briggs,Reino Unido,48,No especificado,Doctor,108929.62,34
+1130,James Rivers,Australia,37,No especificado,Ingeniero,137466.09,34
+1131,James Jefferson,Estados Unidos,48,Femenino,Científico,137787.16,36
+1132,Mariah Robles,China,44,Femenino,Analista de Datos,57597.1,2
+1133,Michael Brown,Australia,65,Femenino,Mecánico,53857.61,40
+1134,Caitlin Perry,Japón,55,Masculino,Mecánico,26710.59,18
+1135,Rebekah Gregory,Australia,19,Femenino,Programador,30726.32,32
+1136,James Howard,India,35,Femenino,Profesor,100053.71,17
+1137,Michael Roberson,Alemania,18,No especificado,Doctor,98496.8,37
+1138,Bianca Knapp,Brasil,60,Femenino,Artista,125019.29,16
+1139,Jason Williams,Reino Unido,49,Masculino,Científico,132061.88,21
+1140,Ernest Bush,India,27,No especificado,Profesor,128889.85,26
+1141,Patricia Ray,México,33,No especificado,Programador,114379.88,10
+1142,Vanessa Santiago,Reino Unido,54,No especificado,Artista,27062.35,16
+1143,Joseph Haynes,India,21,Masculino,Programador,71836.82,19
+1144,Matthew Wright,Japón,65,No especificado,Diseñador,69374.1,24
+1145,Michael Cruz,Japón,34,Masculino,Científico,133136.11,0
+1146,Kristin Huerta,Alemania,46,Femenino,Artista,145029.15,2
+1147,Mason Moore,India,52,No especificado,Artista,144303.88,27
+1148,Sarah Booth,Australia,59,Femenino,Artista,55142.4,6
+1149,John Allen,Alemania,59,No especificado,Abogado,79944.12,15
+1150,Amber Walker,Australia,30,No especificado,Artista,108103.36,11
+1151,Jennifer Young,China,53,Masculino,Ingeniero,128119.63,0
+1152,Robert West,México,24,No especificado,Doctor,109114.94,22
+1153,Jillian Wilson,Reino Unido,64,Femenino,Analista de Datos,45100.34,1
+1154,Matthew Garcia MD,Australia,23,Masculino,Mecánico,105358.72,13
+1155,April Davis,Australia,58,Masculino,Doctor,31230.23,38
+1156,Lisa Torres,Brasil,42,No especificado,Mecánico,124416.01,11
+1157,Christine Powers,India,62,Masculino,Analista de Datos,58293.92,4
+1158,Heidi Brown,Japón,35,Femenino,Artista,53453.76,4
+1159,Jesse Castro,Alemania,21,Femenino,Abogado,63245.12,3
+1160,Kara Sandoval,Alemania,34,Masculino,Programador,29021.8,12
+1161,Ashley Malone,Australia,43,Masculino,Programador,34095.96,34
+1162,Glenn Gallegos,México,31,No especificado,Doctor,138639.2,16
+1163,Dorothy Boyd,India,20,Masculino,Doctor,94274.79,16
+1164,Amber Martin,Japón,19,Femenino,Profesor,104872.49,0
+1165,Mitchell Griffith,Estados Unidos,60,Femenino,Analista de Datos,39708.97,21
+1166,Levi Lopez,México,54,Masculino,Científico,111988.73,31
+1167,Jenna Bryant,Japón,45,Femenino,Doctor,90216.73,0
+1168,Michelle Rodriguez,México,62,Femenino,Doctor,93741.71,22
+1169,Timothy Monroe,China,61,Femenino,Abogado,27175.31,5
+1170,Patricia Hayes,China,52,Femenino,Doctor,129353.61,18
+1171,Tina Taylor,Reino Unido,29,No especificado,Ingeniero,145776.68,12
+1172,Mr. Anthony Mcconnell PhD,Alemania,62,Femenino,Doctor,101980.22,22
+1173,Mr. Thomas Thompson,Japón,23,No especificado,Programador,115592.14,8
+1174,Monica Anderson,Estados Unidos,30,Masculino,Mecánico,51003.07,24
+1175,Kyle Andrade,India,52,No especificado,Analista de Datos,84958.94,28
+1176,Janice Petty,Estados Unidos,20,Femenino,Ingeniero,63903.42,2
+1177,Pamela Hill,México,25,Masculino,Científico,79588.15,34
+1178,Tracy Chavez,Brasil,65,No especificado,Diseñador,140226.06,2
+1179,Jason Graves,Brasil,49,No especificado,Ingeniero,81258.55,39
+1180,Elizabeth Miles,Estados Unidos,33,No especificado,Profesor,21867.48,40
+1181,Michelle Walls,Estados Unidos,37,Masculino,Programador,99459.37,37
+1182,Christina Weber,India,24,Masculino,Programador,97347.06,39
+1183,Gregory Chambers,Reino Unido,22,Masculino,Abogado,63854.6,25
+1184,Miss Tina Gordon,China,25,No especificado,Mecánico,90965.02,20
+1185,Erica Wilson,Reino Unido,20,No especificado,Profesor,63615.48,7
+1186,John Duncan,Alemania,27,Femenino,Profesor,110518.45,35
+1187,Jennifer Adkins,Brasil,46,Masculino,Mecánico,25290.86,6
+1188,Donna Boone,Australia,42,Masculino,Ingeniero,134351.5,5
+1189,Kelly Johnson,Estados Unidos,18,Masculino,Doctor,111876.36,37
+1190,Michael Gonzalez,Alemania,44,No especificado,Programador,110006.58,13
+1191,Candace Mitchell,Brasil,58,Femenino,Científico,78554.49,15
+1192,Ryan Vaughn,Brasil,57,No especificado,Ingeniero,97515.36,31
+1193,Paul Johnson,Australia,23,No especificado,Analista de Datos,65220.96,0
+1194,Ashley Parrish,Sudáfrica,33,Masculino,Doctor,148258.46,6
+1195,Sharon Newton,Australia,41,No especificado,Científico,48505.9,40
+1196,Cynthia Mueller,Reino Unido,35,Masculino,Diseñador,34648.29,9
+1197,Donna Beck,Japón,49,Masculino,Profesor,107118.54,2
+1198,Jasmine Frye,Estados Unidos,59,Femenino,Analista de Datos,47246.67,16
+1199,Emily Arnold,China,57,Femenino,Ingeniero,33574.74,3
+1200,David Oliver,Sudáfrica,29,Masculino,Ingeniero,83057.98,7
+1201,Sheila Greer,India,33,No especificado,Programador,97051.87,20
+1202,Michele Holland,México,30,No especificado,Artista,49908.22,7
+1203,Kimberly Morrison,China,32,Masculino,Diseñador,115907.22,12
+1204,Tracey Phillips,México,32,Masculino,Programador,96061.99,3
+1205,Michael Lopez,México,27,Masculino,Mecánico,79148.81,24
+1206,Jose Bennett,China,26,Femenino,Diseñador,102162.75,17
+1207,Justin Anderson,Reino Unido,39,Masculino,Ingeniero,109987.37,3
+1208,Dawn Rivera,Alemania,26,Masculino,Programador,79615.26,10
+1209,Brittney Hernandez,China,32,Femenino,Mecánico,40382.46,40
+1210,Anthony Randolph,Australia,28,No especificado,Científico,131150.52,5
+1211,Mary Henry,México,51,Femenino,Diseñador,96905.51,29
+1212,Heather Bowers,Alemania,18,No especificado,Abogado,115703.25,15
+1213,Daniel White,Reino Unido,38,Femenino,Mecánico,48912.86,37
+1214,Jonathan Perry,Brasil,54,Masculino,Abogado,147423.93,2
+1215,Anna Walker,Japón,64,No especificado,Ingeniero,75340.69,25
+1216,Gary Ward,Japón,62,Masculino,Programador,84387.06,5
+1217,Paul Moreno,Sudáfrica,18,No especificado,Abogado,143491.41,8
+1218,Samantha Zavala MD,China,36,Masculino,Doctor,22070.92,19
+1219,Jill Conway,Brasil,63,Femenino,Mecánico,117147.27,1
+1220,Lisa Haley,Japón,47,Masculino,Abogado,44042.95,23
+1221,Erica Moon,Japón,63,No especificado,Ingeniero,131849.74,4
+1222,Janice Fernandez,México,62,Femenino,Científico,24252.84,27
+1223,Thomas Short,Alemania,62,No especificado,Científico,94779.82,13
+1224,Robert Griffin,India,57,Femenino,Ingeniero,86915.74,23
+1225,Steven Lee,Estados Unidos,25,Femenino,Artista,80495.87,2
+1226,Tiffany Jackson,China,41,Masculino,Científico,111633.58,35
+1227,Kimberly Smith,Reino Unido,26,Femenino,Diseñador,90152.4,30
+1228,Michael Ayala,Australia,62,Masculino,Diseñador,61660.3,17
+1229,Jessica Garcia,Sudáfrica,61,Femenino,Analista de Datos,27079.8,23
+1230,Michele Cherry,China,46,Femenino,Científico,88468.74,7
+1231,Maria Case,Japón,63,No especificado,Científico,136928.66,28
+1232,Brittany Stevens,Australia,41,No especificado,Doctor,44485.97,29
+1233,Brandon Brown,India,23,Femenino,Profesor,57488.45,4
+1234,Kristin Andrews,India,28,Femenino,Doctor,110620.67,31
+1235,David Hughes,Brasil,31,No especificado,Ingeniero,58112.03,34
+1236,Jessica Smith,Brasil,48,Femenino,Abogado,77701.81,1
+1237,Kimberly May,Alemania,30,Masculino,Ingeniero,133333.18,14
+1238,Nicole Richards,Sudáfrica,59,Femenino,Abogado,95231.6,20
+1239,Angel Reilly,Japón,55,No especificado,Científico,129448.02,28
+1240,Richard Turner,Japón,37,No especificado,Profesor,136776.65,19
+1241,Preston Kim,Brasil,34,Masculino,Programador,68347.3,18
+1242,Matthew Wells,Estados Unidos,27,Femenino,Analista de Datos,79270.45,10
+1243,Brandy Myers,Australia,28,No especificado,Científico,57082.06,11
+1244,Kimberly Choi,Brasil,28,Masculino,Doctor,25349.69,20
+1245,Michael Sloan,Australia,26,Femenino,Analista de Datos,68057.38,13
+1246,Monica Brooks,Sudáfrica,63,Masculino,Artista,147142.93,9
+1247,Kristen Peters,China,46,No especificado,Profesor,89373.58,7
+1248,Aaron Carlson,Estados Unidos,43,Femenino,Profesor,143212.58,20
+1249,Theresa Torres,Brasil,18,No especificado,Científico,146828.13,21
+1250,Stephanie Cooper,Alemania,48,Femenino,Mecánico,106695.41,36
+1251,Matthew Hunt,Japón,39,No especificado,Doctor,115113.27,2
+1252,Daniel Davenport,Brasil,61,No especificado,Doctor,60050.69,25
+1253,Christopher Marsh,Australia,32,Femenino,Artista,32022.55,3
+1254,Sarah Randolph,Australia,59,Masculino,Mecánico,88436.4,17
+1255,Julia Dunn MD,Reino Unido,19,Masculino,Científico,130428.68,5
+1256,Brett Swanson,Sudáfrica,43,Masculino,Programador,61308.52,38
+1257,Mr. Carl Rios,Sudáfrica,21,No especificado,Artista,71682.54,27
+1258,Manuel Mccullough,China,42,Femenino,Ingeniero,57004.55,22
+1259,Jerry Jensen,Alemania,46,No especificado,Doctor,48040.37,28
+1260,Kevin Cunningham,México,46,Femenino,Profesor,124737.46,27
+1261,Eugene Patterson,México,26,No especificado,Mecánico,31190.14,13
+1262,David Walker,Alemania,48,No especificado,Artista,28595.05,37
+1263,Jessica Larsen,México,23,Masculino,Abogado,103044.78,17
+1264,Nicholas Humphrey,México,29,No especificado,Programador,112332.11,8
+1265,Ian Torres,Reino Unido,29,Femenino,Analista de Datos,92002.7,2
+1266,Casey Obrien,Alemania,55,Femenino,Programador,92706.54,29
+1267,Shannon Taylor,Reino Unido,19,Masculino,Profesor,54148.01,40
+1268,Deborah Mercado,Japón,25,No especificado,Analista de Datos,74230.38,31
+1269,Bernard Smith,Reino Unido,19,Masculino,Analista de Datos,84096.53,4
+1270,Amanda Perkins,Australia,65,Femenino,Mecánico,82463.17,27
+1271,Kevin Escobar,Alemania,58,No especificado,Programador,146653.64,7
+1272,Kimberly Lutz,China,50,No especificado,Mecánico,22280.86,16
+1273,Reginald Diaz,Brasil,55,Masculino,Profesor,61558.54,8
+1274,Raymond Quinn,China,28,Masculino,Analista de Datos,66951.25,40
+1275,John Dixon,China,21,Femenino,Analista de Datos,88849.6,4
+1276,Jonathan Bates,Sudáfrica,30,No especificado,Profesor,119409.62,38
+1277,Renee Mendez,Brasil,52,Femenino,Artista,127486.86,19
+1278,Jose Griffin,Alemania,61,No especificado,Artista,32458.34,37
+1279,Travis Hopkins,China,27,Masculino,Profesor,87362.2,23
+1280,Nancy Webb,Japón,44,Femenino,Profesor,33314.32,9
+1281,Daniel Freeman,Sudáfrica,32,Masculino,Científico,99745.69,33
+1282,Jacob Williams,Sudáfrica,63,No especificado,Doctor,74255.01,4
+1283,Terry Ward,India,26,Masculino,Programador,65267.29,23
+1284,Jesse Williams,Brasil,46,No especificado,Científico,119266.64,21
+1285,Mrs. Michele Boyd,Brasil,63,Femenino,Ingeniero,116779.83,7
+1286,Sandy Baker,Reino Unido,26,No especificado,Profesor,109446.13,19
+1287,Carrie Valdez,Brasil,31,Masculino,Doctor,75224.66,7
+1288,Matthew Houston,India,19,Femenino,Abogado,25527.2,6
+1289,Jamie Solomon,Estados Unidos,60,No especificado,Mecánico,27704.48,7
+1290,Heather Parrish,Alemania,20,Masculino,Analista de Datos,106786.24,6
+1291,Mr. Larry Shaw,India,56,Masculino,Mecánico,137152.73,11
+1292,Christopher Jones,China,19,Masculino,Profesor,129962.0,17
+1293,Christine Lopez,Australia,40,Femenino,Profesor,131167.95,39
+1294,Mitchell Wilson,Reino Unido,50,No especificado,Doctor,32883.74,37
+1295,Robert Cortez,Estados Unidos,51,Masculino,Diseñador,145354.29,10
+1296,Mr. Daniel Martin,Sudáfrica,18,No especificado,Doctor,140150.17,32
+1297,Alison Williams,Japón,41,No especificado,Mecánico,44066.35,6
+1298,Candace Soto,Brasil,40,Femenino,Abogado,47855.62,14
+1299,Kenneth Brown,México,25,Femenino,Doctor,80567.22,33
+1300,Christopher Mullen,Brasil,49,Femenino,Analista de Datos,92427.18,2
+1301,Kristy Smith,India,38,Femenino,Doctor,70021.55,29
+1302,Mary Campbell,Australia,65,Femenino,Programador,49363.55,26
+1303,Jerry Haney,Alemania,45,Masculino,Doctor,136318.1,30
+1304,Carolyn Greer,China,29,Masculino,Programador,107372.41,25
+1305,Rebecca Hoover,Japón,51,No especificado,Doctor,35498.32,25
+1306,Matthew Baker,México,62,No especificado,Doctor,116386.18,10
+1307,Grace Chavez,India,41,Masculino,Artista,46034.25,25
+1308,Crystal Cruz,India,32,Femenino,Programador,56207.38,37
+1309,Dale Heath,Australia,35,No especificado,Abogado,66292.65,38
+1310,Jennifer Hernandez,México,49,No especificado,Analista de Datos,39158.63,29
+1311,John Mendez,India,25,Femenino,Programador,84645.59,40
+1312,Richard Gordon,Brasil,19,Masculino,Ingeniero,127940.62,31
+1313,John Anderson,Estados Unidos,29,Femenino,Mecánico,108296.57,9
+1314,Samantha Prince,Alemania,57,No especificado,Doctor,118822.29,33
+1315,Marie Boyd,Japón,47,Masculino,Analista de Datos,106072.12,31
+1316,Andrew Moreno,Sudáfrica,34,No especificado,Artista,125232.61,34
+1317,Robert Clarke,Sudáfrica,19,Masculino,Abogado,134416.34,7
+1318,Kevin Figueroa,México,46,Femenino,Abogado,77532.3,2
+1319,Melissa Davis,Estados Unidos,29,No especificado,Analista de Datos,135011.03,10
+1320,John Hall,Japón,45,Masculino,Analista de Datos,113044.01,31
+1321,Diane Mcdowell,India,54,No especificado,Programador,105810.22,34
+1322,Colin Fletcher,Australia,48,Femenino,Científico,131065.69,32
+1323,Laura Wilson,Estados Unidos,43,Femenino,Programador,96835.87,24
+1324,Matthew Watts,Australia,61,Femenino,Analista de Datos,61662.76,1
+1325,Jack Moore,Australia,20,Masculino,Artista,65353.98,37
+1326,Dawn Wyatt,Estados Unidos,58,Femenino,Abogado,32655.51,22
+1327,Jacob Hill,China,44,Femenino,Ingeniero,105961.2,15
+1328,Nicole Gutierrez,Reino Unido,59,Femenino,Mecánico,31042.43,4
+1329,Karen Wood,Alemania,25,Femenino,Profesor,22562.56,20
+1330,Dawn Parker,Estados Unidos,47,No especificado,Abogado,93846.42,26
+1331,Michael Fitzgerald,Alemania,19,No especificado,Programador,96438.6,20
+1332,Mary Adkins,México,54,Femenino,Artista,94430.02,31
+1333,Michael Martin,India,62,No especificado,Diseñador,63675.77,32
+1334,James Morgan,China,28,No especificado,Analista de Datos,67233.46,27
+1335,Melissa Mann,Reino Unido,49,No especificado,Doctor,129249.46,34
+1336,Vincent Smith,Reino Unido,36,Femenino,Ingeniero,58651.63,36
+1337,Charles Frost,México,32,No especificado,Doctor,113301.89,37
+1338,Austin Walker,India,55,Femenino,Analista de Datos,28745.07,33
+1339,Andrew Cruz,Japón,45,Masculino,Artista,123434.73,19
+1340,Miss Kelly Dawson,Sudáfrica,37,Femenino,Científico,60735.89,26
+1341,Theresa Wilkins,México,34,No especificado,Científico,78919.72,35
+1342,Jessica Harris,Brasil,19,No especificado,Científico,132152.27,36
+1343,Regina Mitchell,Japón,31,No especificado,Programador,54831.67,40
+1344,Kyle Black,Sudáfrica,57,Femenino,Mecánico,114459.96,3
+1345,Christopher Johnson,Sudáfrica,30,Femenino,Programador,39206.68,9
+1346,Aaron Moore,Alemania,45,Femenino,Artista,131824.17,4
+1347,Penny Gomez MD,Reino Unido,44,Femenino,Analista de Datos,103985.54,16
+1348,Kelly Mclaughlin,Australia,33,Femenino,Diseñador,34762.61,12
+1349,Brandon Mitchell,Estados Unidos,33,Femenino,Programador,83099.71,27
+1350,Suzanne Bailey,México,59,Masculino,Diseñador,40716.6,8
+1351,Destiny Obrien,Estados Unidos,34,Femenino,Científico,42878.08,2
+1352,Timothy Andrews,Japón,19,Masculino,Doctor,60807.62,19
+1353,Jason Rodriguez,India,44,Femenino,Doctor,71596.36,8
+1354,Edward Arroyo,Reino Unido,25,No especificado,Científico,141281.61,33
+1355,Tina Walter,Australia,51,Femenino,Programador,134993.43,15
+1356,Laura Benson,Australia,25,Femenino,Artista,128203.44,24
+1357,Kristine Carrillo,Reino Unido,45,Masculino,Profesor,33885.82,13
+1358,Tonya Ellis,Alemania,46,Femenino,Analista de Datos,132176.99,3
+1359,Kevin Johnson,Japón,52,Femenino,Doctor,61143.69,27
+1360,Austin Schultz,Japón,61,Masculino,Analista de Datos,134326.36,9
+1361,Megan Hall MD,China,48,No especificado,Artista,126777.5,1
+1362,Kelli Smith,Australia,20,No especificado,Ingeniero,109788.72,15
+1363,Danielle Davis,Alemania,53,Femenino,Analista de Datos,103063.38,23
+1364,Samantha Jones,India,52,Masculino,Programador,70501.23,25
+1365,Karen Gomez,Alemania,37,Masculino,Diseñador,58664.98,10
+1366,Debra Valentine,Japón,58,Femenino,Abogado,122611.26,17
+1367,Susan Porter,India,49,Femenino,Abogado,140444.64,21
+1368,Nicolas Salas,México,24,Masculino,Analista de Datos,85823.49,22
+1369,Dale Wright,México,56,No especificado,Científico,115912.12,29
+1370,Brittney Rodriguez,Estados Unidos,21,No especificado,Profesor,101920.32,8
+1371,Megan Alvarado,Estados Unidos,43,Masculino,Analista de Datos,60783.83,5
+1372,Pamela Weaver,India,28,Masculino,Científico,112763.31,8
+1373,John Oliver,Australia,61,Femenino,Artista,78693.69,8
+1374,William Prince PhD,Alemania,29,No especificado,Mecánico,127479.92,18
+1375,William Moon IV,Reino Unido,23,Femenino,Artista,43645.6,24
+1376,Kenneth Brown,Australia,32,Masculino,Ingeniero,140004.61,39
+1377,Karen Fernandez,Reino Unido,23,Femenino,Diseñador,54031.81,10
+1378,Jennifer Parks,Estados Unidos,43,No especificado,Abogado,98051.06,9
+1379,William Wolfe,India,41,Masculino,Mecánico,35255.57,33
+1380,Michael Smith,México,47,No especificado,Programador,35406.61,13
+1381,Kevin Nguyen,Reino Unido,35,Femenino,Programador,69669.56,27
+1382,Debbie Dunn,Reino Unido,56,Masculino,Analista de Datos,114472.05,12
+1383,John Austin,México,29,Femenino,Profesor,23740.51,16
+1384,Jonathan Clark,Reino Unido,57,Femenino,Diseñador,68052.91,29
+1385,Jacqueline Dickerson,India,18,Femenino,Profesor,133287.65,25
+1386,Christopher Anderson,Reino Unido,63,Femenino,Abogado,115693.53,16
+1387,Crystal Garcia,India,24,No especificado,Ingeniero,26774.64,15
+1388,David Reynolds,Japón,40,No especificado,Mecánico,112243.58,2
+1389,Charles Haley,Estados Unidos,34,No especificado,Mecánico,69521.9,25
+1390,Robert Thompson,China,26,No especificado,Ingeniero,95463.3,16
+1391,Dr. Samuel Holmes DDS,Brasil,50,Femenino,Artista,134126.58,8
+1392,Elizabeth Hart,India,38,No especificado,Científico,76280.86,16
+1393,Jennifer Vaughn,India,38,Masculino,Profesor,84897.38,17
+1394,Robert Woods,China,45,Femenino,Analista de Datos,99681.1,16
+1395,Joanna Cook,Sudáfrica,38,Femenino,Profesor,61020.58,31
+1396,Justin Frederick,Brasil,53,No especificado,Programador,26918.88,9
+1397,Alejandro Martinez,Estados Unidos,32,Masculino,Ingeniero,81132.18,10
+1398,Tracey Gonzalez,Japón,45,Masculino,Programador,25302.92,22
+1399,Mariah Thompson,Sudáfrica,49,Femenino,Programador,34623.81,9
+1400,Heather Nunez,India,40,Masculino,Diseñador,132862.5,11
+1401,Dr. Steve James,Brasil,65,No especificado,Analista de Datos,93222.16,37
+1402,Mark Thomas,Reino Unido,55,Masculino,Científico,119690.19,11
+1403,Robert Rogers,México,22,Masculino,Programador,107998.11,21
+1404,Laura Sweeney,Estados Unidos,36,No especificado,Doctor,71242.07,37
+1405,Christopher Perez,India,38,Masculino,Ingeniero,30538.22,30
+1406,Eddie Adams,Japón,58,Femenino,Mecánico,105540.82,21
+1407,Denise Wallace,Estados Unidos,59,No especificado,Programador,62239.01,36
+1408,Heidi Matthews,Brasil,31,Masculino,Analista de Datos,62012.21,3
+1409,Jennifer White,India,53,No especificado,Abogado,32031.63,16
+1410,Nicholas Stanley,Brasil,33,Femenino,Doctor,22666.56,13
+1411,Mercedes Miller,Brasil,42,Femenino,Analista de Datos,104131.84,9
+1412,Brian Brown,India,37,Femenino,Abogado,115665.61,19
+1413,Kimberly Johnson,Australia,26,Femenino,Doctor,128166.87,32
+1414,Phillip Miller,Reino Unido,49,Femenino,Abogado,81937.16,36
+1415,Christopher Pena,Australia,45,Masculino,Abogado,125429.27,39
+1416,Ellen Wright,Brasil,45,No especificado,Abogado,32083.17,32
+1417,Mark Anderson,China,47,No especificado,Diseñador,104189.38,9
+1418,Alyssa Alvarado,Japón,51,No especificado,Científico,30916.11,29
+1419,Erika Alvarez,México,23,Femenino,Analista de Datos,39318.85,8
+1420,Kimberly Nelson,Alemania,33,No especificado,Abogado,58412.61,3
+1421,Wayne Wolfe,Sudáfrica,22,Masculino,Científico,33992.18,27
+1422,Kyle Welch,México,24,Femenino,Mecánico,125667.22,22
+1423,Kristy Mills,Alemania,55,Masculino,Científico,22114.93,29
+1424,Emily Reed,Brasil,29,Femenino,Ingeniero,30827.77,19
+1425,Regina Ramos,China,55,No especificado,Programador,118456.05,28
+1426,David Torres,Australia,34,Femenino,Profesor,47438.89,5
+1427,Robert Charles,Australia,34,No especificado,Doctor,76393.86,1
+1428,John Smith,Estados Unidos,43,Masculino,Ingeniero,42325.6,30
+1429,Theresa Woods,Japón,62,Femenino,Mecánico,114368.48,19
+1430,Jeffrey Carter,Australia,57,Femenino,Abogado,124603.3,5
+1431,Adam Brooks,Brasil,26,Masculino,Diseñador,34548.63,1
+1432,Justin Foster,Reino Unido,19,Masculino,Programador,104321.02,15
+1433,Omar Price,México,58,No especificado,Diseñador,31192.16,29
+1434,Dennis Henderson,Brasil,48,Femenino,Ingeniero,35139.65,9
+1435,Phillip Kent,Japón,49,Femenino,Ingeniero,131773.54,37
+1436,Melinda Mitchell,Reino Unido,30,Femenino,Mecánico,127828.6,25
+1437,Rhonda Gutierrez,Estados Unidos,39,Masculino,Doctor,101953.28,27
+1438,Catherine Roberts,México,49,No especificado,Mecánico,97459.14,35
+1439,Lisa Nelson,Alemania,20,Femenino,Abogado,83193.12,37
+1440,Chelsea Smith,Australia,61,Femenino,Diseñador,112857.74,33
+1441,Joseph Lopez,Estados Unidos,45,No especificado,Artista,91923.24,17
+1442,Derrick Espinoza,México,48,Masculino,Programador,100950.57,22
+1443,Crystal Hernandez,Japón,62,Femenino,Ingeniero,40973.35,12
+1444,Glenn Collins DDS,Japón,40,Femenino,Diseñador,85992.67,37
+1445,Mrs. Raven Rivera DVM,China,56,No especificado,Programador,37050.61,18
+1446,Amy Rowe,México,44,No especificado,Artista,123476.45,10
+1447,John Lee,Australia,31,Femenino,Doctor,106717.34,8
+1448,Ruth Clayton,Brasil,30,Masculino,Mecánico,83984.15,26
+1449,Randy Wright,Japón,37,Masculino,Diseñador,92387.97,1
+1450,Jessica Rojas,China,34,Femenino,Profesor,42712.92,32
+1451,Joel Wise,Estados Unidos,22,Femenino,Abogado,34816.01,14
+1452,Vickie Kennedy,India,53,Masculino,Programador,53516.88,21
+1453,Emily Morris,China,20,No especificado,Analista de Datos,136521.3,32
+1454,Amanda Pineda,Australia,60,Masculino,Ingeniero,140462.17,28
+1455,Dawn Little,Japón,25,Masculino,Mecánico,99255.26,6
+1456,Stephen Boyer,Sudáfrica,20,No especificado,Doctor,41716.02,7
+1457,Brian Chen,Reino Unido,41,Masculino,Analista de Datos,112061.24,32
+1458,Christopher Hill,Japón,64,Masculino,Profesor,104122.09,21
+1459,Richard Smith,Brasil,25,Masculino,Programador,146052.77,0
+1460,Richard Alvarez,Reino Unido,48,Femenino,Analista de Datos,85652.95,5
+1461,Jacqueline Davis,Alemania,41,No especificado,Abogado,66883.64,15
+1462,Brandon Montgomery,Brasil,51,Femenino,Diseñador,37939.26,27
+1463,Yolanda Garrett,México,44,Femenino,Científico,123298.96,23
+1464,Matthew Miles,Estados Unidos,46,Masculino,Ingeniero,113291.35,33
+1465,Beth Hall,India,23,Femenino,Artista,72214.61,10
+1466,Dr. Nicole Trujillo,México,21,Femenino,Ingeniero,105822.9,9
+1467,Corey Norris,Australia,21,No especificado,Científico,146445.95,26
+1468,Chad Roach,México,61,No especificado,Científico,133561.03,20
+1469,Mr. Edward Terry,China,18,Femenino,Científico,99352.14,9
+1470,Cody Bailey,México,46,No especificado,Diseñador,135385.37,39
+1471,Denise Guerra,Australia,59,Femenino,Artista,135397.74,25
+1472,Kristen Jones,Reino Unido,37,Masculino,Ingeniero,89866.35,24
+1473,Edward Baker,Brasil,51,No especificado,Analista de Datos,47785.49,32
+1474,Aaron Little,Sudáfrica,37,No especificado,Artista,118416.02,10
+1475,Cody Smith,Estados Unidos,19,No especificado,Mecánico,53629.72,19
+1476,Patty Allen,México,50,Masculino,Ingeniero,129405.85,16
+1477,Mary Ryan,Sudáfrica,40,Masculino,Ingeniero,118352.79,7
+1478,Joseph Jimenez,Japón,37,No especificado,Ingeniero,78909.13,15
+1479,Lisa Morris,Australia,54,No especificado,Científico,129784.45,14
+1480,Ashley Mills,China,37,Femenino,Mecánico,107416.39,24
+1481,Russell Anderson,Sudáfrica,65,Masculino,Doctor,62620.11,37
+1482,Christina Washington,Reino Unido,41,Femenino,Doctor,39051.92,27
+1483,Kenneth Huff,México,23,Masculino,Ingeniero,75235.28,8
+1484,Kelly Miles,Japón,31,Femenino,Doctor,68008.25,33
+1485,Jacob Obrien,México,55,No especificado,Científico,121247.21,16
+1486,Timothy Clark,Australia,49,No especificado,Abogado,149546.53,31
+1487,Steve Miller PhD,México,28,Masculino,Científico,36526.12,29
+1488,Justin Hurley,Brasil,63,No especificado,Científico,35347.56,13
+1489,Jacob Erickson,Japón,48,Masculino,Profesor,142729.04,23
+1490,Deborah Williams,India,56,Femenino,Doctor,35712.64,36
+1491,Eric Blackburn,Alemania,20,No especificado,Profesor,35306.49,19
+1492,Anne Hardy,China,37,Femenino,Programador,23637.11,9
+1493,Chelsey Fox,Brasil,55,Femenino,Ingeniero,141786.69,19
+1494,Mario White,Alemania,31,Masculino,Programador,20271.15,35
+1495,Jennifer Garcia,China,22,Masculino,Abogado,82552.94,19
+1496,Heather Ellis,Australia,46,Femenino,Abogado,81779.58,38
+1497,Sonya Jackson,Brasil,26,No especificado,Programador,119018.24,28
+1498,James Morgan,Brasil,64,Femenino,Doctor,123975.51,39
+1499,Zachary Ramos,México,42,Masculino,Abogado,64069.72,2
+1500,Ethan Frey,Japón,65,Femenino,Doctor,132573.96,1
